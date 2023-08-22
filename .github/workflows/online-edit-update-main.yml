@@ -34,8 +34,8 @@ jobs:
 
           git fetch origin
           git reset origin/main
-          rm README.md > /dev/null 2>&1
-          git checkout origin/main -- README.md > /dev/null 2>&1
+          rm README.md || true # There may be no README
+          git checkout origin/main -- README.md || true
           git add -u
           git add -A
           git status
