@@ -34,27 +34,6 @@
     "type": "text"
    },
    {
-    "type": "html_element",
-    "html": "<br>"
-   },
-   {
-    "text": "You can use ",
-    "type": "text"
-   },
-   {
-    "type": "italics",
-    "tokens": [
-     {
-      "text": "La’asos",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": " to learn halacha by book or by topic. ",
-    "type": "text"
-   },
-   {
     "type": "table_list",
     "width": 4,
     "rows": [
