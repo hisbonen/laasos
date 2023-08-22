@@ -22,12 +22,12 @@
     ]
    },
    {
-    "text": ", (לְעַתוֹת), the interactive halacha tool.",
+    "text": " (לְעַתוֹת), the interactive halacha-learning tool.",
     "type": "text"
    },
    {
     "type": "html_element",
-    "html": "<img src=\"/_assets/logo.png\" alt=\"Logo\" style=\"position: absolute; height: 200px; width: 200; top: -15px; right: -20px;\">"
+    "html": "<img src=\"/_assets/logo.png\" alt=\"Logo\" style=\"position: absolute; height: 200px; width: 200; top: -15px; right: -30px;\">"
    },
    {
     "text": " ",
