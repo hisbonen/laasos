@@ -1,0 +1,97 @@
+{
+ "displayTopicName": "Tur\\, Shulchan Aruch",
+ "topicTokens": [
+  {
+   "text": "Tur, Shulchan Aruch",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Tur, Shulchan Aruch": [
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "Orach Chayim",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Orach Chayim",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Orach Chayim",
+         "targetTopic": "Tur, Shulchan Aruch",
+         "enclosingTopic": "Tur, Shulchan Aruch",
+         "enclosingSubtopic": "Tur, Shulchan Aruch"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Yoreh De’ah",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Yoreh De’ah",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Yoreh Deah",
+         "targetTopic": "Tur, Shulchan Aruch",
+         "enclosingTopic": "Tur, Shulchan Aruch",
+         "enclosingSubtopic": "Tur, Shulchan Aruch"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Even Ha’ezer",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Even Ha’ezer",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Even Haezer",
+         "targetTopic": "Tur, Shulchan Aruch",
+         "enclosingTopic": "Tur, Shulchan Aruch",
+         "enclosingSubtopic": "Tur, Shulchan Aruch"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Choshen Mishpat",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Choshen Mishpat",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Choshen Mishpat",
+         "targetTopic": "Tur, Shulchan Aruch",
+         "enclosingTopic": "Tur, Shulchan Aruch",
+         "enclosingSubtopic": "Tur, Shulchan Aruch"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "Orach Chayim": [],
+  "Yoreh Deah": [],
+  "Even Haezer": [],
+  "Choshen Mishpat": []
+ }
+}

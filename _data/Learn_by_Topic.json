@@ -1,0 +1,97 @@
+{
+ "displayTopicName": "Learn by Topic",
+ "topicTokens": [
+  {
+   "text": "Learn by Topic",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Learn by Topic": [
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "Tefila",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Tefila",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Tefila",
+         "targetTopic": "Learn by Topic",
+         "enclosingTopic": "Learn by Topic",
+         "enclosingSubtopic": "Learn by Topic"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Kashrus",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Kashrus",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Kashrus",
+         "targetTopic": "Learn by Topic",
+         "enclosingTopic": "Learn by Topic",
+         "enclosingSubtopic": "Learn by Topic"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Speech",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Speech",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Speech",
+         "targetTopic": "Learn by Topic",
+         "enclosingTopic": "Learn by Topic",
+         "enclosingSubtopic": "Learn by Topic"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Money",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Money",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Money",
+         "targetTopic": "Learn by Topic",
+         "enclosingTopic": "Learn by Topic",
+         "enclosingSubtopic": "Learn by Topic"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "Tefila": [],
+  "Kashrus": [],
+  "Speech": [],
+  "Money": []
+ }
+}

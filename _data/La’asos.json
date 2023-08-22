@@ -1,0 +1,87 @@
+{
+ "displayTopicName": "La’asos",
+ "topicTokens": [
+  {
+   "text": "La’asos",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "La’asos": [
+   {
+    "text": "Welcome to ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "La’asos",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": ", the interactive halacha tool. You can use ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "La’asos",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " to learn halacha using the order of the most popular legal works, or browse by topic to learn about topics and common questions. ",
+    "type": "text"
+   },
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "Learn by Source",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Learn by Source",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Learn by Source",
+         "targetTopic": "Learn by Source",
+         "enclosingTopic": "La’asos",
+         "enclosingSubtopic": "La’asos"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Learn by Topic",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Learn by Topic",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Learn by Topic",
+         "targetTopic": "Learn by Topic",
+         "enclosingTopic": "La’asos",
+         "enclosingSubtopic": "La’asos"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ]
+ }
+}

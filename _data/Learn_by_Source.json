@@ -1,0 +1,65 @@
+{
+ "displayTopicName": "Learn by Source",
+ "topicTokens": [
+  {
+   "text": "Learn by Source",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Learn by Source": [
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "Tur\\, <br> Shulchan Aruch",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Tur, ",
+           "type": "text"
+          },
+          {
+           "type": "html_element",
+           "html": "<br>"
+          },
+          {
+           "text": " Shulchan Aruch",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Tur, Shulchan Aruch",
+         "targetTopic": "Tur, Shulchan Aruch",
+         "enclosingTopic": "Learn by Source",
+         "enclosingSubtopic": "Learn by Source"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Rambam’s Mishnah Torah",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Rambam’s Mishnah Torah",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Rambam’s Mishnah Torah",
+         "targetTopic": "Rambam’s Mishnah Torah",
+         "enclosingTopic": "Learn by Source",
+         "enclosingSubtopic": "Learn by Source"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ]
+ }
+}
