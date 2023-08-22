@@ -1,11 +1,101 @@
-[La'asos]
+[La’asos]
 
-** La'asos: Text here. This is an example reference to a [[subtopic]].
+** La’asos:
+Welcome to _La’asos_, the interactive halacha tool. You can use _La’asos_ to learn halacha using the order of the most popular legal works, or browse by topic to learn about topics and common questions.
+===
+- [[Learn by Source]]
+- [[Learn by Topic]]
+===
 
-Subtopic: This is a subtopic paragraph.
+
+* Learn by Source:
+===
+- [[Tur\, <br> Shulchan Aruch]]
+- [[Rambam’s Mishnah Torah]]
+===
 
 
-[Inbox]
+* Learn by Topic:
+===
+- [[Tefila]]
+- [[Kashrus]]
+- [[Speech]]
+- [[Money]]
+===
 
-This is for notes that don't yet have a category.
+Tefila:
+
+Kashrus:
+
+Speech:
+
+Money:
+
+
+[Rambam’s Mishnah Torah]
+
+* Rambam’s Mishnah Torah:
+===
+- [[Sefer Hamada]]
+- [[Sefer Ahavah]]
+- [[Sefer Zemanim]]
+- [[Sefer Nashim]]
+- [[Sefer Kedushah]]
+- [[Sefer Hafla]]
+- [[Sefer Zeraim]]
+- [[Sefer Avodah]]
+- [[Sefer Korbanos]]
+- [[Sefer Taharah]]
+- [[Sefer Nezikin]]
+- [[Sefer Kinyan]]
+- [[Sefer Mishpatim]]
+- [[Sefer Shoftim]]
+===
+
+Sefer Hamada:
+
+Sefer Ahavah:
+
+Sefer Zemanim:
+
+Sefer Nashim:
+
+Sefer Kedushah:
+
+Sefer Hafla:
+
+Sefer Zeraim:
+
+Sefer Avodah:
+
+Sefer Korbanos:
+
+Sefer Taharah:
+
+Sefer Nezikin:
+
+Sefer Kinyan:
+
+Sefer Mishpatim:
+
+Sefer Shoftim:
+
+
+[Tur Shulchan Aruch]
+
+* Tur\, Shulchan Aruch:
+===
+- [[Orach Chayim]]
+- [[Yoreh De’ah]]
+- [[Even Ha’ezer]]
+- [[Choshen Mishpat]]
+===
+
+Orach Chayim:
+
+Yoreh Deah:
+
+Even Haezer:
+
+Choshen Mishpat:
 
