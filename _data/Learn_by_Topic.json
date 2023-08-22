@@ -89,9 +89,29 @@
     ]
    }
   ],
-  "Tefilah": [],
-  "Kashrus": [],
-  "Speech": [],
-  "Money": []
+  "Tefilah": [
+   {
+    "text": "This is a work in progress.",
+    "type": "text"
+   }
+  ],
+  "Kashrus": [
+   {
+    "text": "This is a work in progress.",
+    "type": "text"
+   }
+  ],
+  "Speech": [
+   {
+    "text": "This is a work in progress.",
+    "type": "text"
+   }
+  ],
+  "Money": [
+   {
+    "text": "This is a work in progress.",
+    "type": "text"
+   }
+  ]
  }
 }

@@ -89,9 +89,29 @@
     ]
    }
   ],
-  "Orach Chayim": [],
-  "Yoreh Deah": [],
-  "Even Haezer": [],
-  "Choshen Mishpat": []
+  "Orach Chayim": [
+   {
+    "text": "This is a work in progress.",
+    "type": "text"
+   }
+  ],
+  "Yoreh Deah": [
+   {
+    "text": "This is a work in progress.",
+    "type": "text"
+   }
+  ],
+  "Even Haezer": [
+   {
+    "text": "This is a work in progress.",
+    "type": "text"
+   }
+  ],
+  "Choshen Mishpat": [
+   {
+    "text": "This is a work in progress.",
+    "type": "text"
+   }
+  ]
  }
 }
