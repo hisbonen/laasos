@@ -96,13 +96,11 @@ jobs:
           if [[ ! -z $electron_branch_exists ]]; then
             git reset "origin/electron"
           fi
-
-          # deb squirrel.windows zip
       - uses: "marvinpinto/action-automatic-releases@latest"
         with:
           repo_token: "${{ secrets.GITHUB_TOKEN }}"
           automatic_release_tag: "latest"
-          prerelease: true
+          prerelease: false
           title: "Binary Release"
           files: |
             deb
