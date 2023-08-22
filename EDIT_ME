@@ -1,7 +1,8 @@
 [La’asos]
 
 ** La’asos:
-Welcome to _La’asos_, the interactive halacha tool. You can use _La’asos_ to learn halacha using the order of the most popular legal works, or browse by topic to learn about topics and common questions.
+Welcome to _La’asos_, the interactive halacha tool.<img src="/_assets/logo.png" alt="Logo" style="position: absolute; height: 200px; width: 200; top: -15px; right: -20px;">
+<br>You can use _La’asos_ to learn halacha by book or by topic.
 ===
 - [[Learn by Source]]
 - [[Learn by Topic]]
