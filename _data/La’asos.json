@@ -22,7 +22,23 @@
     ]
    },
    {
-    "text": ", the interactive halacha tool. You can use ",
+    "text": ", the interactive halacha tool.",
+    "type": "text"
+   },
+   {
+    "type": "html_element",
+    "html": "<img src=\"/_assets/logo.png\" alt=\"Logo\" style=\"position: absolute; height: 200px; width: 200; top: -15px; right: -20px;\">"
+   },
+   {
+    "text": " ",
+    "type": "text"
+   },
+   {
+    "type": "html_element",
+    "html": "<br>"
+   },
+   {
+    "text": "You can use ",
     "type": "text"
    },
    {
@@ -35,7 +51,7 @@
     ]
    },
    {
-    "text": " to learn halacha using the order of the most popular legal works, or browse by topic to learn about topics and common questions. ",
+    "text": " to learn halacha by book or by topic. ",
     "type": "text"
    },
    {
