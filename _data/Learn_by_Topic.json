@@ -16,15 +16,15 @@
       {
        "tokens": [
         {
-         "text": "Tefila",
+         "text": "Tefilah",
          "type": "local",
          "tokens": [
           {
-           "text": "Tefila",
+           "text": "Tefilah",
            "type": "text"
           }
          ],
-         "targetSubtopic": "Tefila",
+         "targetSubtopic": "Tefilah",
          "targetTopic": "Learn by Topic",
          "enclosingTopic": "Learn by Topic",
          "enclosingSubtopic": "Learn by Topic"
@@ -89,7 +89,7 @@
     ]
    }
   ],
-  "Tefila": [],
+  "Tefilah": [],
   "Kashrus": [],
   "Speech": [],
   "Money": []
