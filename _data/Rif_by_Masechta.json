@@ -9,8 +9,20 @@
  "paragraphsBySubtopic": {
   "Rif by Masechta": [
    {
-    "text": "This is a work in progress.",
-    "type": "text"
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "This is a work in progress.",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
    }
   ]
  }
