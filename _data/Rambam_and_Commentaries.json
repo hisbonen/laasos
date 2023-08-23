@@ -1,0 +1,57 @@
+{
+ "displayTopicName": "Rambam and Commentaries",
+ "topicTokens": [
+  {
+   "text": "Rambam and Commentaries",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Rambam and Commentaries": [
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "Mishnah Torah",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Mishnah Torah",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Mishnah Torah",
+         "targetTopic": "Mishnah Torah",
+         "enclosingTopic": "Rambam and Commentaries",
+         "enclosingSubtopic": "Rambam and Commentaries"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Sefer HaMitzvos",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Sefer HaMitzvos",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Sefer HaMitzvos",
+         "targetTopic": "Sefer HaMitzvos",
+         "enclosingTopic": "Rambam and Commentaries",
+         "enclosingSubtopic": "Rambam and Commentaries"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ]
+ }
+}

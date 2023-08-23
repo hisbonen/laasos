@@ -1,0 +1,385 @@
+{
+ "displayTopicName": "Making Bread",
+ "topicTokens": [
+  {
+   "text": "Making Bread",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Making Bread": [
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "Choreish",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Choreish",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Choreish",
+         "targetTopic": "Making Bread",
+         "enclosingTopic": "Making Bread",
+         "enclosingSubtopic": "Making Bread"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Zoraya",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Zoraya",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Zoraya",
+         "targetTopic": "Making Bread",
+         "enclosingTopic": "Making Bread",
+         "enclosingSubtopic": "Making Bread"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Kotzair",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Kotzair",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Kotzair",
+         "targetTopic": "Making Bread",
+         "enclosingTopic": "Making Bread",
+         "enclosingSubtopic": "Making Bread"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Me’amer",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Me’amer",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Me’amer",
+         "targetTopic": "Making Bread",
+         "enclosingTopic": "Making Bread",
+         "enclosingSubtopic": "Making Bread"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Dash",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Dash",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Dash",
+         "targetTopic": "Making Bread",
+         "enclosingTopic": "Making Bread",
+         "enclosingSubtopic": "Making Bread"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Zoreh",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Zoreh",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Zoreh",
+         "targetTopic": "Making Bread",
+         "enclosingTopic": "Making Bread",
+         "enclosingSubtopic": "Making Bread"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Borer",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Borer",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Borer",
+         "targetTopic": "Making Bread",
+         "enclosingTopic": "Making Bread",
+         "enclosingSubtopic": "Making Bread"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Tochain",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Tochain",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Tochain",
+         "targetTopic": "Making Bread",
+         "enclosingTopic": "Making Bread",
+         "enclosingSubtopic": "Making Bread"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Losh",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Losh",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Losh",
+         "targetTopic": "Making Bread",
+         "enclosingTopic": "Making Bread",
+         "enclosingSubtopic": "Making Bread"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Bishul and Ofeh",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Bishul and Ofeh",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Bishul and Ofeh",
+         "targetTopic": "Making Bread",
+         "enclosingTopic": "Making Bread",
+         "enclosingSubtopic": "Making Bread"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "Choreish": [
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "This is a work in progress",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "Zoraya": [
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "This is a work in progress",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "Kotzair": [
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "This is a work in progress",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "Me’amer": [
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "This is a work in progress",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "Dash": [
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "This is a work in progress",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "Zoreh": [
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "This is a work in progress",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "Borer": [
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "This is a work in progress",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "Tochain": [
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "This is a work in progress",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "Losh": [
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "This is a work in progress",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "Bishul and Ofeh": [
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "This is a work in progress",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ]
+ }
+}

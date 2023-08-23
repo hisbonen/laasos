@@ -16,24 +16,16 @@
       {
        "tokens": [
         {
-         "text": "Rif by <br> Masechta",
+         "text": "Shas and Commentaries",
          "type": "global",
          "tokens": [
           {
-           "text": "Rif by ",
-           "type": "text"
-          },
-          {
-           "type": "html_element",
-           "html": "<br>"
-          },
-          {
-           "text": " Masechta",
+           "text": "Shas and Commentaries",
            "type": "text"
           }
          ],
-         "targetSubtopic": "Rif by Masechta",
-         "targetTopic": "Rif by Masechta",
+         "targetSubtopic": "Shas and Commentaries",
+         "targetTopic": "Shas and Commentaries",
          "enclosingTopic": "Learn by Source",
          "enclosingSubtopic": "Learn by Source"
         }
@@ -42,24 +34,16 @@
       {
        "tokens": [
         {
-         "text": "Rosh by <br> Masechta",
+         "text": "Rambam and Commentaries",
          "type": "global",
          "tokens": [
           {
-           "text": "Rosh by ",
-           "type": "text"
-          },
-          {
-           "type": "html_element",
-           "html": "<br>"
-          },
-          {
-           "text": " Masechta",
+           "text": "Rambam and Commentaries",
            "type": "text"
           }
          ],
-         "targetSubtopic": "Rosh by Masechta",
-         "targetTopic": "Rosh by Masechta",
+         "targetSubtopic": "Rambam and Commentaries",
+         "targetTopic": "Rambam and Commentaries",
          "enclosingTopic": "Learn by Source",
          "enclosingSubtopic": "Learn by Source"
         }
@@ -68,42 +52,16 @@
       {
        "tokens": [
         {
-         "text": "Rambam’s Mishnah Torah",
+         "text": "Tur and Commentaries",
          "type": "global",
          "tokens": [
           {
-           "text": "Rambam’s Mishnah Torah",
+           "text": "Tur and Commentaries",
            "type": "text"
           }
          ],
-         "targetSubtopic": "Rambam’s Mishnah Torah",
-         "targetTopic": "Rambam’s Mishnah Torah",
-         "enclosingTopic": "Learn by Source",
-         "enclosingSubtopic": "Learn by Source"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Tur, <br> Shulchan Aruch",
-         "type": "global",
-         "tokens": [
-          {
-           "text": "Tur, ",
-           "type": "text"
-          },
-          {
-           "type": "html_element",
-           "html": "<br>"
-          },
-          {
-           "text": " Shulchan Aruch",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Tur, Shulchan Aruch",
-         "targetTopic": "Tur, Shulchan Aruch",
+         "targetSubtopic": "Tur and Commentaries",
+         "targetTopic": "Tur and Commentaries",
          "enclosingTopic": "Learn by Source",
          "enclosingSubtopic": "Learn by Source"
         }

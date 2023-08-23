@@ -1,0 +1,165 @@
+{
+ "displayTopicName": "Sefer Hafla’ah",
+ "topicTokens": [
+  {
+   "text": "Sefer Hafla’ah",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Sefer Hafla’ah": [
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "Shevuos",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Shevuos",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Shevuos",
+         "targetTopic": "Sefer Hafla’ah",
+         "enclosingTopic": "Sefer Hafla’ah",
+         "enclosingSubtopic": "Sefer Hafla’ah"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Nedarim",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Nedarim",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Nedarim",
+         "targetTopic": "Sefer Hafla’ah",
+         "enclosingTopic": "Sefer Hafla’ah",
+         "enclosingSubtopic": "Sefer Hafla’ah"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Neziros",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Neziros",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Neziros",
+         "targetTopic": "Sefer Hafla’ah",
+         "enclosingTopic": "Sefer Hafla’ah",
+         "enclosingSubtopic": "Sefer Hafla’ah"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Erachin",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Erachin",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Erachin",
+         "targetTopic": "Sefer Hafla’ah",
+         "enclosingTopic": "Sefer Hafla’ah",
+         "enclosingSubtopic": "Sefer Hafla’ah"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "Shevuos": [
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "This is a work in progress",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "Nedarim": [
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "This is a work in progress",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "Neziros": [
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "This is a work in progress",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "Erachin": [
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "This is a work in progress",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ]
+ }
+}

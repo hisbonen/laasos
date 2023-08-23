@@ -1,0 +1,279 @@
+{
+ "displayTopicName": "Mishnah Torah",
+ "topicTokens": [
+  {
+   "text": "Mishnah Torah",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Mishnah Torah": [
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "Sefer Hamadah",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Sefer Hamadah",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Sefer Hamadah",
+         "targetTopic": "Sefer Hamadah",
+         "enclosingTopic": "Mishnah Torah",
+         "enclosingSubtopic": "Mishnah Torah"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Sefer Ahavah",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Sefer Ahavah",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Sefer Ahavah",
+         "targetTopic": "Sefer Ahavah",
+         "enclosingTopic": "Mishnah Torah",
+         "enclosingSubtopic": "Mishnah Torah"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Sefer Zemanim",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Sefer Zemanim",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Sefer Zemanim",
+         "targetTopic": "Sefer Zemanim",
+         "enclosingTopic": "Mishnah Torah",
+         "enclosingSubtopic": "Mishnah Torah"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Sefer Nashim",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Sefer Nashim",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Sefer Nashim",
+         "targetTopic": "Sefer Nashim",
+         "enclosingTopic": "Mishnah Torah",
+         "enclosingSubtopic": "Mishnah Torah"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Sefer Kedushah",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Sefer Kedushah",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Sefer Kedushah",
+         "targetTopic": "Sefer Kedushah",
+         "enclosingTopic": "Mishnah Torah",
+         "enclosingSubtopic": "Mishnah Torah"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Sefer Hafla’ah",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Sefer Hafla’ah",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Sefer Hafla’ah",
+         "targetTopic": "Sefer Hafla’ah",
+         "enclosingTopic": "Mishnah Torah",
+         "enclosingSubtopic": "Mishnah Torah"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Sefer Zeraim",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Sefer Zeraim",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Sefer Zera’im",
+         "targetTopic": "Sefer Zera’im",
+         "enclosingTopic": "Mishnah Torah",
+         "enclosingSubtopic": "Mishnah Torah"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Sefer Avodah",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Sefer Avodah",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Sefer Avodah",
+         "targetTopic": "Sefer Avodah",
+         "enclosingTopic": "Mishnah Torah",
+         "enclosingSubtopic": "Mishnah Torah"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Sefer Korbanos",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Sefer Korbanos",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Sefer Korbanos",
+         "targetTopic": "Sefer Korbanos",
+         "enclosingTopic": "Mishnah Torah",
+         "enclosingSubtopic": "Mishnah Torah"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Sefer Taharah",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Sefer Taharah",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Sefer Taharah",
+         "targetTopic": "Sefer Taharah",
+         "enclosingTopic": "Mishnah Torah",
+         "enclosingSubtopic": "Mishnah Torah"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Sefer Nezikin",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Sefer Nezikin",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Sefer Nezikin",
+         "targetTopic": "Sefer Nezikin",
+         "enclosingTopic": "Mishnah Torah",
+         "enclosingSubtopic": "Mishnah Torah"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Sefer Kinyan",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Sefer Kinyan",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Sefer Kinyan",
+         "targetTopic": "Sefer Kinyan",
+         "enclosingTopic": "Mishnah Torah",
+         "enclosingSubtopic": "Mishnah Torah"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Sefer Mishpatim",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Sefer Mishpatim",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Sefer Mishpatim",
+         "targetTopic": "Sefer Mishpatim",
+         "enclosingTopic": "Mishnah Torah",
+         "enclosingSubtopic": "Mishnah Torah"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Sefer Shoftim",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Sefer Shoftim",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Sefer Shoftim",
+         "targetTopic": "Sefer Shoftim",
+         "enclosingTopic": "Mishnah Torah",
+         "enclosingSubtopic": "Mishnah Torah"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ]
+ }
+}

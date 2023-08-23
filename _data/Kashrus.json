@@ -1,0 +1,29 @@
+{
+ "displayTopicName": "Kashrus",
+ "topicTokens": [
+  {
+   "text": "Kashrus",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Kashrus": [
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "This is a work in progress.",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ]
+ }
+}

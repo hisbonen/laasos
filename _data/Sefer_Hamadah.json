@@ -1,0 +1,203 @@
+{
+ "displayTopicName": "Sefer Hamadah",
+ "topicTokens": [
+  {
+   "text": "Sefer Hamadah",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Sefer Hamadah": [
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "Yesodei haTorah",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Yesodei haTorah",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Yesodei haTorah",
+         "targetTopic": "Sefer Hamadah",
+         "enclosingTopic": "Sefer Hamadah",
+         "enclosingSubtopic": "Sefer Hamadah"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "De’os",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "De’os",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Deos",
+         "targetTopic": "Sefer Hamadah",
+         "enclosingTopic": "Sefer Hamadah",
+         "enclosingSubtopic": "Sefer Hamadah"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Talmud Torah",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Talmud Torah",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Talmud Torah",
+         "targetTopic": "Sefer Hamadah",
+         "enclosingTopic": "Sefer Hamadah",
+         "enclosingSubtopic": "Sefer Hamadah"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Avodah Zarah",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Avodah Zarah",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Avodah Zarah",
+         "targetTopic": "Sefer Hamadah",
+         "enclosingTopic": "Sefer Hamadah",
+         "enclosingSubtopic": "Sefer Hamadah"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Teshuvah",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Teshuvah",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Teshuvah",
+         "targetTopic": "Sefer Hamadah",
+         "enclosingTopic": "Sefer Hamadah",
+         "enclosingSubtopic": "Sefer Hamadah"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "Yesodei haTorah": [
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "This is a work in progress",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "Deos": [
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "This is a work in progress",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "Talmud Torah": [
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "This is a work in progress",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "Avodah Zarah": [
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "This is a work in progress",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "Teshuvah": [
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "This is a work in progress",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ]
+ }
+}

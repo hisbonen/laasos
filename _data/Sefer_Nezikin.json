@@ -1,0 +1,203 @@
+{
+ "displayTopicName": "Sefer Nezikin",
+ "topicTokens": [
+  {
+   "text": "Sefer Nezikin",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Sefer Nezikin": [
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "Nizkei Mamon",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Nizkei Mamon",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Nizkei Mamon",
+         "targetTopic": "Sefer Nezikin",
+         "enclosingTopic": "Sefer Nezikin",
+         "enclosingSubtopic": "Sefer Nezikin"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Geneivah",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Geneivah",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Geneivah",
+         "targetTopic": "Sefer Nezikin",
+         "enclosingTopic": "Sefer Nezikin",
+         "enclosingSubtopic": "Sefer Nezikin"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Gezeilah v’Aveidah",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Gezeilah v’Aveidah",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Gezeilah v’Aveidah",
+         "targetTopic": "Sefer Nezikin",
+         "enclosingTopic": "Sefer Nezikin",
+         "enclosingSubtopic": "Sefer Nezikin"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Hovel uMazik",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Hovel uMazik",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Hovel uMazik",
+         "targetTopic": "Sefer Nezikin",
+         "enclosingTopic": "Sefer Nezikin",
+         "enclosingSubtopic": "Sefer Nezikin"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Rotzeach uShmiras Nefesh",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Rotzeach uShmiras Nefesh",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Rotzeach uShmiras Nefesh",
+         "targetTopic": "Sefer Nezikin",
+         "enclosingTopic": "Sefer Nezikin",
+         "enclosingSubtopic": "Sefer Nezikin"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "Nizkei Mamon": [
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "This is a work in progress",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "Geneivah": [
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "This is a work in progress",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "Gezeilah v’Aveidah": [
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "This is a work in progress",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "Hovel uMazik": [
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "This is a work in progress",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "Rotzeach uShmiras Nefesh": [
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "This is a work in progress",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ]
+ }
+}

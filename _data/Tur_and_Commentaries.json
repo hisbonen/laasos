@@ -1,13 +1,13 @@
 {
- "displayTopicName": "Tur\\, Shulchan Aruch",
+ "displayTopicName": "Tur and Commentaries",
  "topicTokens": [
   {
-   "text": "Tur, Shulchan Aruch",
+   "text": "Tur and Commentaries",
    "type": "text"
   }
  ],
  "paragraphsBySubtopic": {
-  "Tur, Shulchan Aruch": [
+  "Tur and Commentaries": [
    {
     "type": "table_list",
     "width": 4,
@@ -25,9 +25,9 @@
           }
          ],
          "targetSubtopic": "Orach Chayim",
-         "targetTopic": "Tur, Shulchan Aruch",
-         "enclosingTopic": "Tur, Shulchan Aruch",
-         "enclosingSubtopic": "Tur, Shulchan Aruch"
+         "targetTopic": "Tur and Commentaries",
+         "enclosingTopic": "Tur and Commentaries",
+         "enclosingSubtopic": "Tur and Commentaries"
         }
        ]
       },
@@ -43,9 +43,9 @@
           }
          ],
          "targetSubtopic": "Yoreh Deah",
-         "targetTopic": "Tur, Shulchan Aruch",
-         "enclosingTopic": "Tur, Shulchan Aruch",
-         "enclosingSubtopic": "Tur, Shulchan Aruch"
+         "targetTopic": "Tur and Commentaries",
+         "enclosingTopic": "Tur and Commentaries",
+         "enclosingSubtopic": "Tur and Commentaries"
         }
        ]
       },
@@ -61,9 +61,9 @@
           }
          ],
          "targetSubtopic": "Even Haezer",
-         "targetTopic": "Tur, Shulchan Aruch",
-         "enclosingTopic": "Tur, Shulchan Aruch",
-         "enclosingSubtopic": "Tur, Shulchan Aruch"
+         "targetTopic": "Tur and Commentaries",
+         "enclosingTopic": "Tur and Commentaries",
+         "enclosingSubtopic": "Tur and Commentaries"
         }
        ]
       },
@@ -79,9 +79,9 @@
           }
          ],
          "targetSubtopic": "Choshen Mishpat",
-         "targetTopic": "Tur, Shulchan Aruch",
-         "enclosingTopic": "Tur, Shulchan Aruch",
-         "enclosingSubtopic": "Tur, Shulchan Aruch"
+         "targetTopic": "Tur and Commentaries",
+         "enclosingTopic": "Tur and Commentaries",
+         "enclosingSubtopic": "Tur and Commentaries"
         }
        ]
       }

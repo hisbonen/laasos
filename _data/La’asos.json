@@ -9,20 +9,7 @@
  "paragraphsBySubtopic": {
   "La’asos": [
    {
-    "text": "Welcome to ",
-    "type": "text"
-   },
-   {
-    "type": "italics",
-    "tokens": [
-     {
-      "text": "La’asos",
-      "type": "text"
-     }
-    ]
-   },
-   {
-    "text": " (לְעַתוֹת), the interactive halacha-learning tool.",
+    "text": "Welcome to La’asos (לְעַתוֹת), the interactive halacha-learning tool.",
     "type": "text"
    },
    {

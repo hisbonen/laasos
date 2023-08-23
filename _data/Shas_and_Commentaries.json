@@ -1,0 +1,131 @@
+{
+ "displayTopicName": "Shas and Commentaries",
+ "topicTokens": [
+  {
+   "text": "Shas and Commentaries",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Shas and Commentaries": [
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "Seder Zeroim",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Seder Zeroim",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Seder Zeroim",
+         "targetTopic": "Seder Zeroim",
+         "enclosingTopic": "Shas and Commentaries",
+         "enclosingSubtopic": "Shas and Commentaries"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Seder Moed",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Seder Moed",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Seder Moed",
+         "targetTopic": "Seder Moed",
+         "enclosingTopic": "Shas and Commentaries",
+         "enclosingSubtopic": "Shas and Commentaries"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Seder Nashim",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Seder Nashim",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Seder Nashim",
+         "targetTopic": "Seder Nashim",
+         "enclosingTopic": "Shas and Commentaries",
+         "enclosingSubtopic": "Shas and Commentaries"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Seder Nezikin",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Seder Nezikin",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Seder Nezikin",
+         "targetTopic": "Seder Nezikin",
+         "enclosingTopic": "Shas and Commentaries",
+         "enclosingSubtopic": "Shas and Commentaries"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Seder Kodshim",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Seder Kodshim",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Seder Kodshim",
+         "targetTopic": "Seder Kodshim",
+         "enclosingTopic": "Shas and Commentaries",
+         "enclosingSubtopic": "Shas and Commentaries"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Seder Tahoros",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Seder Tahoros",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Seder Tahoros",
+         "targetTopic": "Seder Tahoros",
+         "enclosingTopic": "Shas and Commentaries",
+         "enclosingSubtopic": "Shas and Commentaries"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,495 @@
+{
+ "displayTopicName": "Making Clothes",
+ "topicTokens": [
+  {
+   "text": "Making Clothes",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Making Clothes": [
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "Gozez",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Gozez",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Gozez",
+         "targetTopic": "Making Clothes",
+         "enclosingTopic": "Making Clothes",
+         "enclosingSubtopic": "Making Clothes"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Melabein",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Melabein",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Melabein",
+         "targetTopic": "Making Clothes",
+         "enclosingTopic": "Making Clothes",
+         "enclosingSubtopic": "Making Clothes"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Menapeitz",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Menapeitz",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Menapeitz",
+         "targetTopic": "Making Clothes",
+         "enclosingTopic": "Making Clothes",
+         "enclosingSubtopic": "Making Clothes"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Tzovea",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Tzovea",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Tzovea",
+         "targetTopic": "Making Clothes",
+         "enclosingTopic": "Making Clothes",
+         "enclosingSubtopic": "Making Clothes"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Toveh",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Toveh",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Toveh",
+         "targetTopic": "Making Clothes",
+         "enclosingTopic": "Making Clothes",
+         "enclosingSubtopic": "Making Clothes"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Maisach",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Maisach",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Maisach",
+         "targetTopic": "Making Clothes",
+         "enclosingTopic": "Making Clothes",
+         "enclosingSubtopic": "Making Clothes"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Oseh Shtei Batei Nirin",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Oseh Shtei Batei Nirin",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Oseh Shtei Batei Nirin",
+         "targetTopic": "Making Clothes",
+         "enclosingTopic": "Making Clothes",
+         "enclosingSubtopic": "Making Clothes"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Oreig",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Oreig",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Oreig",
+         "targetTopic": "Making Clothes",
+         "enclosingTopic": "Making Clothes",
+         "enclosingSubtopic": "Making Clothes"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Potzea",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Potzea",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Potzea",
+         "targetTopic": "Making Clothes",
+         "enclosingTopic": "Making Clothes",
+         "enclosingSubtopic": "Making Clothes"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Koshair",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Koshair",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Koshair",
+         "targetTopic": "Making Clothes",
+         "enclosingTopic": "Making Clothes",
+         "enclosingSubtopic": "Making Clothes"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Matir",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Matir",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Matir",
+         "targetTopic": "Making Clothes",
+         "enclosingTopic": "Making Clothes",
+         "enclosingSubtopic": "Making Clothes"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Tofair",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Tofair",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Tofair",
+         "targetTopic": "Making Clothes",
+         "enclosingTopic": "Making Clothes",
+         "enclosingSubtopic": "Making Clothes"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "Koraya",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Koraya",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Koraya",
+         "targetTopic": "Making Clothes",
+         "enclosingTopic": "Making Clothes",
+         "enclosingSubtopic": "Making Clothes"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "Gozez": [
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "This is a work in progress",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "Melabein": [
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "This is a work in progress",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "Menapeitz": [
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "This is a work in progress",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "Tzovea": [
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "This is a work in progress",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "Toveh": [
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "This is a work in progress",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "Maisach": [
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "This is a work in progress",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "Oseh Shtei Batei Nirin": [
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "This is a work in progress",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "Oreig": [
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "This is a work in progress",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "Potzea": [
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "This is a work in progress",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "Koshair": [
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "This is a work in progress",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "Matir": [
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "This is a work in progress",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "Tofair": [
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "This is a work in progress",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "Koraya": [
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "This is a work in progress",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ]
+ }
+}

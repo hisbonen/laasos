@@ -1,0 +1,311 @@
+{
+ "displayTopicName": "Sefer Taharah",
+ "topicTokens": [
+  {
+   "text": "Sefer Taharah",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Sefer Taharah": [
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "Tumas Met",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Tumas Met",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Tumas Met",
+         "targetTopic": "Sefer Taharah",
+         "enclosingTopic": "Sefer Taharah",
+         "enclosingSubtopic": "Sefer Taharah"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Para Aduma",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Para Aduma",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Para Aduma",
+         "targetTopic": "Sefer Taharah",
+         "enclosingTopic": "Sefer Taharah",
+         "enclosingSubtopic": "Sefer Taharah"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Tumas Zara’as",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Tumas Zara’as",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Tumas Zara’as",
+         "targetTopic": "Sefer Taharah",
+         "enclosingTopic": "Sefer Taharah",
+         "enclosingSubtopic": "Sefer Taharah"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Metamei Mischkav uMoschav",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Metamei Mischkav uMoschav",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Metamei Mischkav uMoschav",
+         "targetTopic": "Sefer Taharah",
+         "enclosingTopic": "Sefer Taharah",
+         "enclosingSubtopic": "Sefer Taharah"
+        }
+       ]
+      }
+     ],
+     [
+      {
+       "tokens": [
+        {
+         "text": "She’ar Avos haTumos",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "She’ar Avos haTumos",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "She’ar Avos haTumos",
+         "targetTopic": "Sefer Taharah",
+         "enclosingTopic": "Sefer Taharah",
+         "enclosingSubtopic": "Sefer Taharah"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Tumas Ochalin",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Tumas Ochalin",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Tumas Ochalin",
+         "targetTopic": "Sefer Taharah",
+         "enclosingTopic": "Sefer Taharah",
+         "enclosingSubtopic": "Sefer Taharah"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Kelim",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Kelim",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Kelim",
+         "targetTopic": "Sefer Taharah",
+         "enclosingTopic": "Sefer Taharah",
+         "enclosingSubtopic": "Sefer Taharah"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Mikvaos",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Mikvaos",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Mikvaos",
+         "targetTopic": "Sefer Taharah",
+         "enclosingTopic": "Sefer Taharah",
+         "enclosingSubtopic": "Sefer Taharah"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "Tumas Met": [
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "This is a work in progress",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "Para Aduma": [
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "This is a work in progress",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "Tumas Zara’as": [
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "This is a work in progress",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "Metamei Mischkav uMoschav": [
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "This is a work in progress",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "She’ar Avos haTumos": [
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "This is a work in progress",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "Tumas Ochalin": [
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "This is a work in progress",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "Kelim": [
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "This is a work in progress",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "Mikvaos": [
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "This is a work in progress",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ]
+ }
+}

@@ -1,13 +1,13 @@
 {
- "displayTopicName": "Rif by Masechta",
+ "displayTopicName": "Sefer HaMitzvos",
  "topicTokens": [
   {
-   "text": "Rif by Masechta",
+   "text": "Sefer HaMitzvos",
    "type": "text"
   }
  ],
  "paragraphsBySubtopic": {
-  "Rif by Masechta": [
+  "Sefer HaMitzvos": [
    {
     "type": "table_list",
     "width": 4,

@@ -1,0 +1,29 @@
+{
+ "displayTopicName": "Tefilah",
+ "topicTokens": [
+  {
+   "text": "Tefilah",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Tefilah": [
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "This is a work in progress.",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ]
+ }
+}

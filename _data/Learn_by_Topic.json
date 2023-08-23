@@ -17,7 +17,7 @@
        "tokens": [
         {
          "text": "Tefilah",
-         "type": "local",
+         "type": "global",
          "tokens": [
           {
            "text": "Tefilah",
@@ -25,7 +25,7 @@
           }
          ],
          "targetSubtopic": "Tefilah",
-         "targetTopic": "Learn by Topic",
+         "targetTopic": "Tefilah",
          "enclosingTopic": "Learn by Topic",
          "enclosingSubtopic": "Learn by Topic"
         }
@@ -35,7 +35,7 @@
        "tokens": [
         {
          "text": "Kashrus",
-         "type": "local",
+         "type": "global",
          "tokens": [
           {
            "text": "Kashrus",
@@ -43,7 +43,7 @@
           }
          ],
          "targetSubtopic": "Kashrus",
-         "targetTopic": "Learn by Topic",
+         "targetTopic": "Kashrus",
          "enclosingTopic": "Learn by Topic",
          "enclosingSubtopic": "Learn by Topic"
         }
@@ -53,7 +53,7 @@
        "tokens": [
         {
          "text": "Speech",
-         "type": "local",
+         "type": "global",
          "tokens": [
           {
            "text": "Speech",
@@ -61,7 +61,7 @@
           }
          ],
          "targetSubtopic": "Speech",
-         "targetTopic": "Learn by Topic",
+         "targetTopic": "Speech",
          "enclosingTopic": "Learn by Topic",
          "enclosingSubtopic": "Learn by Topic"
         }
@@ -71,7 +71,7 @@
        "tokens": [
         {
          "text": "Money",
-         "type": "local",
+         "type": "global",
          "tokens": [
           {
            "text": "Money",
@@ -79,81 +79,29 @@
           }
          ],
          "targetSubtopic": "Money",
-         "targetTopic": "Learn by Topic",
+         "targetTopic": "Money",
          "enclosingTopic": "Learn by Topic",
          "enclosingSubtopic": "Learn by Topic"
         }
        ]
       }
-     ]
-    ]
-   }
-  ],
-  "Tefilah": [
-   {
-    "type": "table_list",
-    "width": 4,
-    "rows": [
+     ],
      [
       {
        "tokens": [
         {
-         "text": "This is a work in progress.",
-         "type": "text"
-        }
-       ]
-      }
-     ]
-    ]
-   }
-  ],
-  "Kashrus": [
-   {
-    "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress.",
-         "type": "text"
-        }
-       ]
-      }
-     ]
-    ]
-   }
-  ],
-  "Speech": [
-   {
-    "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress.",
-         "type": "text"
-        }
-       ]
-      }
-     ]
-    ]
-   }
-  ],
-  "Money": [
-   {
-    "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress.",
-         "type": "text"
+         "text": "Shabbos",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Shabbos",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Shabbos",
+         "targetTopic": "Shabbos",
+         "enclosingTopic": "Learn by Topic",
+         "enclosingSubtopic": "Learn by Topic"
         }
        ]
       }
