@@ -1,73 +1,42 @@
 [La’asos]
 
 ** La’asos:
-Welcome to _La’asos_ (לְעַתוֹת), the interactive halacha-learning tool.<img src="/_assets/logo.png" alt="Logo" style="position: absolute; height: 200px; width: 200; top: -15px; right: -30px;">
+Welcome to La’asos (לְעַתוֹת), the interactive halacha-learning tool.<img src="/_assets/logo.png" alt="Logo" style="position: absolute; height: 200px; width: 200; top: -15px; right: -30px;">
 ===
 - [[Learn by Source]]
 - [[Learn by Topic]]
 ===
 
 
+[Sources]
+
 * Learn by Source:
 ===
-- [[Rif by <br> Masechta]]
-- [[Rosh by <br> Masechta]]
-- [[Rambam’s Mishnah Torah]]
-- [[Tur, <br> Shulchan Aruch]]
+- [[Shas and Commentaries]]
+- [[Rambam and Commentaries]]
+- [[Tur and Commentaries]]
 ===
 
 
-* Learn by Topic:
-===
-- [[Tefilah]]
-- [[Kashrus]]
-- [[Speech]]
-- [[Money]]
-===
+[Sources/Rambam]
 
-Tefilah:
+* Rambam and Commentaries:
 ===
-- This is a work in progress.
-===
-
-Kashrus:
-===
-- This is a work in progress.
-===
-
-Speech:
-===
-- This is a work in progress.
-===
-
-Money:
-===
-- This is a work in progress.
+- [[Mishnah Torah]]
+- [[Sefer HaMitzvos]]
 ===
 
 
-* Rif by Masechta:
-===
-- This is a work in progress.
-===
+[Sources/Rambam/Mishnah Torah]
 
-
-* Rosh by Masechta:
+* Mishnah Torah:
 ===
-- This is a work in progress.
-===
-
-
-[Rambam’s Mishnah Torah]
-
-* Rambam’s Mishnah Torah:
-===
-- [[Sefer Hamada]]
+- [[Sefer Hamadah]]
 - [[Sefer Ahavah]]
 - [[Sefer Zemanim]]
 - [[Sefer Nashim]]
 - [[Sefer Kedushah]]
-- [[Sefer Hafla]]
+- [[Sefer Hafla’ah]]
 - [[Sefer Zeraim]]
 - [[Sefer Avodah]]
 - [[Sefer Korbanos]]
@@ -78,80 +47,1053 @@ Money:
 - [[Sefer Shoftim]]
 ===
 
-Sefer Hamada:
+
+[Sources/Rambam/Mishnah Torah/1 Sefer HaMadah]
+
+* Sefer Hamadah:
+===
+- [[Yesodei haTorah]]
+- [[De’os]]
+- [[Talmud Torah]]
+- [[Avodah Zarah]]
+- [[Teshuvah]]
+===
+
+Yesodei haTorah:
+===
+- This is a work in progress
+===
+
+Deos:
+===
+- This is a work in progress
+===
+
+Talmud Torah:
+===
+- This is a work in progress
+===
+
+Avodah Zarah:
+===
+- This is a work in progress
+===
+
+Teshuvah:
+===
+- This is a work in progress
+===
+
+
+[Sources/Rambam/Mishnah Torah/10 Sefer Taharah]
+
+* Sefer Taharah:
+===
+- [[Tumas Met]]
+- [[Para Aduma]]
+- [[Tumas Zara’as]]
+- [[Metamei Mischkav uMoschav]]
+- [[She’ar Avos haTumos]]
+- [[Tumas Ochalin]]
+- [[Kelim]]
+- [[Mikvaos]]
+===
+
+Tumas Met:
+===
+- This is a work in progress
+===
+
+Para Aduma:
+===
+- This is a work in progress
+===
+
+Tumas Zara’as:
+===
+- This is a work in progress
+===
+
+Metamei Mischkav uMoschav:
+===
+- This is a work in progress
+===
+
+She’ar Avos haTumos:
+===
+- This is a work in progress
+===
+
+Tumas Ochalin:
+===
+- This is a work in progress
+===
+
+Kelim:
+===
+- This is a work in progress
+===
+
+Mikvaos:
+===
+- This is a work in progress
+===
+
+
+[Sources/Rambam/Mishnah Torah/11 Sefer Nezikin]
+
+* Sefer Nezikin:
+===
+- [[Nizkei Mamon]]
+- [[Geneivah]]
+- [[Gezeilah v’Aveidah]]
+- [[Hovel uMazik]]
+- [[Rotzeach uShmiras Nefesh]]
+===
+
+Nizkei Mamon:
+===
+- This is a work in progress
+===
+
+Geneivah:
+===
+- This is a work in progress
+===
+
+Gezeilah v’Aveidah:
+===
+- This is a work in progress
+===
+
+Hovel uMazik:
+===
+- This is a work in progress
+===
+
+Rotzeach uShmiras Nefesh:
+===
+- This is a work in progress
+===
+
+
+[Sources/Rambam/Mishnah Torah/12 Sefer Kinyan]
+
+* Sefer Kinyan:
+===
+- [[Mechirah]]
+- [[Zechiyah uMatanah]]
+- [[Sh’chenim]]
+- [[Shluhin v’Shutfin]]
+- [[Avadim]]
+===
+
+Mechirah:
+===
+- This is a work in progress
+===
+
+Zechiyah uMatanah:
+===
+- This is a work in progress
+===
+
+Sh’chenim:
+===
+- This is a work in progress
+===
+
+Shluhin v’Shutfin:
+===
+- This is a work in progress
+===
+
+Avadim:
+===
+- This is a work in progress
+===
+
+
+[Sources/Rambam/Mishnah Torah/13 Sefer Mishpatim]
+
+* Sefer Mishpatim:
+===
+- [[Schirus]]
+- [[Sheilah uPikadon]]
+- [[Malveh v’Loveh]]
+- [[To’en v’Nit’an]]
+- [[Nahalos]]
+===
+
+Schirus:
+===
+- This is a work in progress
+===
+
+Sheilah uPikadon:
+===
+- This is a work in progress
+===
+
+Malveh v’Loveh:
+===
+- This is a work in progress
+===
+
+To’en v’Nit’an:
+===
+- This is a work in progress
+===
+
+Nahalos:
+===
+- This is a work in progress
+===
+
+
+[Sources/Rambam/Mishnah Torah/14 Sefer Shoftim]
+
+* Sefer Shoftim:
+===
+- [[Sanhedrin]]
+- [[Eidus]]
+- [[Mamrim]]
+- [[Evel]]
+- [[Melachim uMilhamoseihem]]
+===
+
+Sanhedrin:
+===
+- This is a work in progress
+===
+
+Eidus:
+===
+- This is a work in progress
+===
+
+Mamrim:
+===
+- This is a work in progress
+===
+
+Evel:
+===
+- This is a work in progress
+===
+
+Melachim uMilhamoseihem:
+===
+- This is a work in progress
+===
+
+
+[Sources/Rambam/Mishnah Torah/2 Sefer Ahavah]
+
+* Sefer Ahavah:
+===
+- [[Kri’as Shema]]
+- [[Tefilah and Birkas Kohanim]]
+- [[Tefillin, Mezuzah, and Sefer Torah]]
+- [[Tzitzit]]
+- [[Berachos]]
+- [[Milah]]
+- [[Seder Tefilos]]
+===
+
+Krias Shema:
+===
+- This is a work in progress
+===
+
+Tefilah and Birkas Kohanim:
+===
+- This is a work in progress
+===
+
+Tefillin, Mezuzah, and Sefer Torah:
+===
+- This is a work in progress
+===
+
+Tzitzit:
+===
+- This is a work in progress
+===
+
+Berachos:
+===
+- This is a work in progress
+===
+
+Milah:
+===
+- This is a work in progress
+===
+
+Seder Tefilos:
+===
+- This is a work in progress
+===
+
+
+[Sources/Rambam/Mishnah Torah/3 Sefer Zemanim]
+
+* Sefer Zemanim:
+===
+- [[Shabbos]]
+- [[Eruvin]]
+- [[Shevisas Asor]]
+- [[Shevisas Yom Tov]]
+- [[Chametz u’Matza]]
+- [[Shofar v’Lulav v’Sukkah]]
+- [[Shekalim]]
+- [[Kiddush HaChodesh]]
+- [[Taaniyos]]
+- [[Hanukah u’Megillah]]
+===
+
+Shabbos:
+===
+- This is a work in progress
+===
+
+Eruvin:
+===
+- This is a work in progress
+===
+
+Shevisas Asor:
+===
+- This is a work in progress
+===
+
+Shevisas Yom Tov:
+===
+- This is a work in progress
+===
+
+Chametz u’Matza:
+===
+- This is a work in progress
+===
+
+Shofar v’Lulav vSukkah:
+===
+- This is a work in progress
+===
+
+Shekalim:
+===
+- This is a work in progress
+===
+
+Kiddush HaChodesh:
+===
+- This is a work in progress
+===
+
+Taaniyos:
+===
+- This is a work in progress
+===
+
+Hanukah u’Megillah:
+===
+- This is a work in progress
+===
+
+
+[Sources/Rambam/Mishnah Torah/4 Sefer Nashim]
+
+* Sefer Nashim:
+===
+- [[Ishus]]
+- [[Geirushin]]
+- [[Yibum v’Chalitzah]]
+- [[Na’arah Besulah]]
+- [[Sotah]]
+===
+
+Ishus:
+===
+- This is a work in progress
+===
+
+Geirushin:
+===
+- This is a work in progress
+===
+
+Yibum vChalitzah:
+===
+- This is a work in progress
+===
+
+Naarah Besulah:
+===
+- This is a work in progress
+===
+
+Sotah:
+===
+- This is a work in progress
+===
+
+
+[Sources/Rambam/Mishnah Torah/5 Sefer Kedushah]
+
+* Sefer Kedushah:
+===
+- [[Issurei Biah]]
+- [[Ma’achalos Assuros]]
+- [[Shechitah]]
+===
+
+Issurei Biah:
+===
+- This is a work in progress
+===
+
+Maachalos Assuros:
+===
+- This is a work in progress
+===
+
+Shechitah:
+===
+- This is a work in progress
+===
+
+
+[Sources/Rambam/Mishnah Torah/6 Sefer Hafla’ah]
+
+* Sefer Hafla’ah:
+===
+- [[Shevuos]]
+- [[Nedarim]]
+- [[Neziros]]
+- [[Erachin]]
+===
+
+Shevuos:
+===
+- This is a work in progress
+===
+
+Nedarim:
+===
+- This is a work in progress
+===
+
+Neziros:
+===
+- This is a work in progress
+===
+
+Erachin:
+===
+- This is a work in progress
+===
+
+
+[Sources/Rambam/Mishnah Torah/7 Sefer Zera’im]
+
+* Sefer Zera’im:
+===
+- [[Kilayim]]
+- [[Aniyim]]
+- [[Terumah]]
+- [[Maaser]]
+- [[Sheini]]
+- [[Bikurim]]
+- [[Shemittah]]
+===
+
+Kilayim:
+===
+- This is a work in progress
+===
+
+Aniyim:
+===
+- This is a work in progress
+===
+
+Terumah:
+===
+- This is a work in progress
+===
+
+Maaser:
+===
+- This is a work in progress
+===
+
+Sheini:
+===
+- This is a work in progress
+===
+
+Bikurim:
+===
+- This is a work in progress
+===
+
+Shemittah:
+===
+- This is a work in progress
+===
+
+
+[Sources/Rambam/Mishnah Torah/8 Sefer Avodah]
+
+* Sefer Avodah:
+===
+- [[Beis Ha’bechirah]]
+- [[Kelei HaMikdash]]
+- [[Bi’as HaMikdash]]
+- [[Issurei HaMizbe’ach]]
+- [[Ma’aseh HaKorbanos]]
+- [[Temidim uMusafim]]
+- [[Pesulei HaMukdashim]]
+- [[Avodas Yom HaKippurim]]
+- [[Me’ilah]]
+===
+
+Beis Ha’bechirah:
+===
+- This is a work in progress
+===
+
+Kelei HaMikdash:
+===
+- This is a work in progress
+===
+
+Bi’as HaMikdash:
+===
+- This is a work in progress
+===
+
+Issurei HaMizbe’ach:
+===
+- This is a work in progress
+===
+
+Ma’aseh HaKorbanos:
+===
+- This is a work in progress
+===
+
+Temidim uMusafim:
+===
+- This is a work in progress
+===
+
+Pesulei HaMukdashim:
+===
+- This is a work in progress
+===
+
+Avodas Yom HaKippurim:
+===
+- This is a work in progress
+===
+
+Me’ilah:
+===
+- This is a work in progress
+===
+
+
+[Sources/Rambam/Mishnah Torah/9 Sefer Korbanos]
+
+* Sefer Korbanos:
+===
+- [[Korban Pesach]]
+- [[Chagigah]]
+- [[Bechoros]]
+- [[Shegagos]]
+- [[Mechussarey Kapparah]]
+- [[Temurah]]
+===
+
+Korban Pesach:
+===
+- This is a work in progress
+===
+
+Chagigah:
+===
+- This is a work in progress
+===
+
+Bechoros:
+===
+- This is a work in progress
+===
+
+Shegagos:
+===
+- This is a work in progress
+===
+
+Mechussarey Kapparah:
+===
+- This is a work in progress
+===
+
+Temurah:
+===
+- This is a work in progress
+===
+
+
+[Sources/Rambam/Sefer HaMitzvos]
+
+* Sefer HaMitzvos:
 ===
 - This is a work in progress.
 ===
 
-Sefer Ahavah:
-===
-- This is a work in progress.
-===
 
-Sefer Zemanim:
-===
-- This is a work in progress.
-===
+[Sources/Shas]
 
-Sefer Nashim:
+* Shas and Commentaries:
 ===
-- This is a work in progress.
-===
-
-Sefer Kedushah:
-===
-- This is a work in progress.
-===
-
-Sefer Hafla:
-===
-- This is a work in progress.
-===
-
-Sefer Zeraim:
-===
-- This is a work in progress.
-===
-
-Sefer Avodah:
-===
-- This is a work in progress.
-===
-
-Sefer Korbanos:
-===
-- This is a work in progress.
-===
-
-Sefer Taharah:
-===
-- This is a work in progress.
-===
-
-Sefer Nezikin:
-===
-- This is a work in progress.
-===
-
-Sefer Kinyan:
-===
-- This is a work in progress.
-===
-
-Sefer Mishpatim:
-===
-- This is a work in progress.
-===
-
-Sefer Shoftim:
-===
-- This is a work in progress.
+- [[Seder Zeroim]]
+- [[Seder Moed]]
+- [[Seder Nashim]]
+- [[Seder Nezikin]]
+- [[Seder Kodshim]]
+- [[Seder Tahoros]]
 ===
 
 
-[Tur Shulchan Aruch]
+[Sources/Shas/1-Zeroim]
 
-* Tur\, Shulchan Aruch:
+* Seder Zeroim:
+===
+- [[Berachos]]
+- [[Pe’ah]]
+- [[Demai]]
+- [[Kil’ayim]]
+- [[Shevi’is]]
+- [[Terumos]]
+- [[Ma’aseros]]
+- [[Ma’aser Sheni]]
+- [[Challah]]
+- [[Orlah]]
+- [[Bikkurim]]
+===
+
+Berachos:
+===
+- This is a work in progress
+===
+
+Pe’ah:
+===
+- This is a work in progress
+===
+
+Demai:
+===
+- This is a work in progress
+===
+
+Kil’ayim:
+===
+- This is a work in progress
+===
+
+Shevi’is:
+===
+- This is a work in progress
+===
+
+Terumos:
+===
+- This is a work in progress
+===
+
+Ma’aseros:
+===
+- This is a work in progress
+===
+
+Ma’aser Sheni:
+===
+- This is a work in progress
+===
+
+Challah:
+===
+- This is a work in progress
+===
+
+Orlah:
+===
+- This is a work in progress
+===
+
+Bikkurim:
+===
+- This is a work in progress
+===
+
+
+[Sources/Shas/2-Moed]
+
+* Seder Moed:
+===
+- [[Shabbos]]
+- [[Eruvin]]
+- [[Pesachim]]
+- [[Shkalim]]
+- [[Yoma]]
+- [[Sukkah]]
+- [[Beitza]]
+- [[Rosh Hashanah]]
+- [[Ta’anis]]
+- [[Megillah]]
+- [[Mo’ed Katan]]
+- [[Hagigah]]
+===
+
+Shabbos:
+===
+- This is a work in progress
+===
+
+Eruvin:
+===
+- This is a work in progress
+===
+
+Pesachim:
+===
+- This is a work in progress
+===
+
+Shkalim:
+===
+- This is a work in progress
+===
+
+Yoma:
+===
+- This is a work in progress
+===
+
+Sukkah:
+===
+- This is a work in progress
+===
+
+Beitza:
+===
+- This is a work in progress
+===
+
+Rosh Hashanah:
+===
+- This is a work in progress
+===
+
+Ta’anis:
+===
+- This is a work in progress
+===
+
+Megillah:
+===
+- This is a work in progress
+===
+
+Mo’ed Katan:
+===
+- This is a work in progress
+===
+
+Hagigah:
+===
+- This is a work in progress
+===
+
+
+[Sources/Shas/3-Nashim]
+
+* Seder Nashim:
+===
+- [[Yevamos]]
+- [[Ketubos]]
+- [[Nedarim]]
+- [[Nazir]]
+- [[Sotah]]
+- [[Gittin]]
+- [[Kiddushin]]
+===
+
+Yevamos:
+===
+- This is a work in progress
+===
+
+Ketubos:
+===
+- This is a work in progress
+===
+
+Nedarim:
+===
+- This is a work in progress
+===
+
+Nazir:
+===
+- This is a work in progress
+===
+
+Sotah:
+===
+- This is a work in progress
+===
+
+Gittin:
+===
+- This is a work in progress
+===
+
+Kiddushin:
+===
+- This is a work in progress
+===
+
+
+[Sources/Shas/4-Nezikin]
+
+* Seder Nezikin:
+===
+- [[Bava Kamma]]
+- [[Bava Metzia]]
+- [[Bava Batra]]
+- [[Sanhedrin]]
+- [[Makkos]]
+- [[Shevu’os]]
+- [[Eduyos]]
+- [[Avodah Zarah]]
+- [[Avos]]
+- [[Horayos]]
+===
+
+Bava Kamma:
+===
+- This is a work in progress
+===
+
+Bava Metzia:
+===
+- This is a work in progress
+===
+
+Bava Batra:
+===
+- This is a work in progress
+===
+
+Sanhedrin:
+===
+- This is a work in progress
+===
+
+Makkos:
+===
+- This is a work in progress
+===
+
+Shevu’os:
+===
+- This is a work in progress
+===
+
+Eduyos:
+===
+- This is a work in progress
+===
+
+Avodah Zarah:
+===
+- This is a work in progress
+===
+
+Avos:
+===
+- This is a work in progress
+===
+
+Horayos:
+===
+- This is a work in progress
+===
+
+
+[Sources/Shas/5-Kodshim]
+
+* Seder Kodshim:
+===
+- [[Zevachim]]
+- [[Menachos]]
+- [[Hullin]]
+- [[Bechoros]]
+- [[Arachin]]
+- [[Temurah]]
+- [[Kerisos]]
+- [[Me’ilah]]
+- [[Tamid]]
+- [[Middos]]
+- [[Kinnim]]
+===
+
+Zevachim:
+===
+- This is a work in progress
+===
+
+Menachos:
+===
+- This is a work in progress
+===
+
+Hullin:
+===
+- This is a work in progress
+===
+
+Bechoros:
+===
+- This is a work in progress
+===
+
+Arachin:
+===
+- This is a work in progress
+===
+
+Temurah:
+===
+- This is a work in progress
+===
+
+Kerisos:
+===
+- This is a work in progress
+===
+
+Me’ilah:
+===
+- This is a work in progress
+===
+
+Tamid:
+===
+- This is a work in progress
+===
+
+Middos:
+===
+- This is a work in progress
+===
+
+Kinnim:
+===
+- This is a work in progress
+===
+
+
+[Sources/Shas/6-Tahoros]
+
+* Seder Tahoros:
+===
+- [[Keilim]]
+- [[Oholos]]
+- [[Nega’im]]
+- [[Parah]]
+- [[Tahoros]]
+- [[Mikva’os]]
+- [[Niddah]]
+- [[Machshirin]]
+- [[Zavim]]
+- [[Tevul Yom]]
+- [[Yadayim]]
+- [[Uktzim]]
+===
+
+Keilim:
+===
+- This is a work in progress
+===
+
+Oholos:
+===
+- This is a work in progress
+===
+
+Nega’im:
+===
+- This is a work in progress
+===
+
+Parah:
+===
+- This is a work in progress
+===
+
+Tahoros:
+===
+- This is a work in progress
+===
+
+Mikva’os:
+===
+- This is a work in progress
+===
+
+Niddah:
+===
+- This is a work in progress
+===
+
+Machshirin:
+===
+- This is a work in progress
+===
+
+Zavim:
+===
+- This is a work in progress
+===
+
+Tevul Yom:
+===
+- This is a work in progress
+===
+
+Yadayim:
+===
+- This is a work in progress
+===
+
+Uktzim:
+===
+- This is a work in progress
+===
+
+
+[Sources/Tur]
+
+* Tur and Commentaries:
 ===
 - [[Orach Chayim]]
 - [[Yoreh De’ah]]
@@ -175,6 +1117,323 @@ Even Haezer:
 ===
 
 Choshen Mishpat:
+===
+- This is a work in progress.
+===
+
+
+[Topics]
+
+* Learn by Topic:
+===
+- [[Tefilah]]
+- [[Kashrus]]
+- [[Speech]]
+- [[Money]]
+- [[Shabbos]]
+===
+
+
+[Topics/Kashrus]
+
+* Kashrus:
+===
+- This is a work in progress.
+===
+
+
+[Topics/Money]
+
+* Money:
+===
+- This is a work in progress.
+===
+
+
+[Topics/Shabbos]
+
+* Shabbos:
+===
+- [[Shabbos {By Melacha}]]
+- [[Shabbos {By Situation}]]
+===
+
+
+[Topics/Shabbos/Melachos]
+
+* Building a House:
+===
+- [[Boneh]]
+- [[Sosair]]
+- [[Mechabeh]]
+- [[Mavir]]
+- [[Makeh b’Patish]]
+- [[Hotza’ah]]
+===
+
+Boneh:
+===
+- This is a work in progress
+===
+
+Sosair:
+===
+- This is a work in progress
+===
+
+Mechabeh:
+===
+- This is a work in progress
+===
+
+Mavir:
+===
+- This is a work in progress
+===
+
+Makeh b’Patish:
+===
+- This is a work in progress
+===
+
+Hotza’ah:
+===
+- This is a work in progress
+===
+
+
+* Making Bread:
+===
+- [[Choreish]]
+- [[Zoraya]]
+- [[Kotzair]]
+- [[Me’amer]]
+- [[Dash]]
+- [[Zoreh]]
+- [[Borer]]
+- [[Tochain]]
+- [[Losh]]
+- [[Bishul and Ofeh]]
+===
+
+Choreish:
+===
+- This is a work in progress
+===
+
+Zoraya:
+===
+- This is a work in progress
+===
+
+Kotzair:
+===
+- This is a work in progress
+===
+
+Me’amer:
+===
+- This is a work in progress
+===
+
+Dash:
+===
+- This is a work in progress
+===
+
+Zoreh:
+===
+- This is a work in progress
+===
+
+Borer:
+===
+- This is a work in progress
+===
+
+Tochain:
+===
+- This is a work in progress
+===
+
+Losh:
+===
+- This is a work in progress
+===
+
+Bishul and Ofeh:
+===
+- This is a work in progress
+===
+
+
+* Making Clothes:
+===
+- [[Gozez]]
+- [[Melabein]]
+- [[Menapeitz]]
+- [[Tzovea]]
+- [[Toveh]]
+- [[Maisach]]
+- [[Oseh Shtei Batei Nirin]]
+- [[Oreig]]
+- [[Potzea]]
+- [[Koshair]]
+- [[Matir]]
+- [[Tofair]]
+- [[Koraya]]
+===
+
+Gozez:
+===
+- This is a work in progress
+===
+
+Melabein:
+===
+- This is a work in progress
+===
+
+Menapeitz:
+===
+- This is a work in progress
+===
+
+Tzovea:
+===
+- This is a work in progress
+===
+
+Toveh:
+===
+- This is a work in progress
+===
+
+Maisach:
+===
+- This is a work in progress
+===
+
+Oseh Shtei Batei Nirin:
+===
+- This is a work in progress
+===
+
+Oreig:
+===
+- This is a work in progress
+===
+
+Potzea:
+===
+- This is a work in progress
+===
+
+Koshair:
+===
+- This is a work in progress
+===
+
+Matir:
+===
+- This is a work in progress
+===
+
+Tofair:
+===
+- This is a work in progress
+===
+
+Koraya:
+===
+- This is a work in progress
+===
+
+
+* Shabbos By Melacha:
+===
+- [[Making Bread]]
+- [[Making Clothes]]
+- [[Writing]]
+- [[Building a House]]
+===
+
+
+* Writing:
+===
+- [[Tzad]]
+- [[Shochait]]
+- [[Mafshit]]
+- [[Me’abaid]]
+- [[Memachaik]]
+- [[Mesartait]]
+- [[Mechataich]]
+- [[Kosaiv]]
+- [[Mochaik]]
+===
+
+Tzad:
+===
+- This is a work in progress
+===
+
+Shochait:
+===
+- This is a work in progress
+===
+
+Mafshit:
+===
+- This is a work in progress
+===
+
+Me’abaid:
+===
+- This is a work in progress
+===
+
+Memachaik:
+===
+- This is a work in progress
+===
+
+Mesartait:
+===
+- This is a work in progress
+===
+
+Mechataich:
+===
+- This is a work in progress
+===
+
+Kosaiv:
+===
+- This is a work in progress
+===
+
+Mochaik:
+===
+- This is a work in progress
+===
+
+
+[Topics/Shabbos/Situation]
+
+* Shabbos By Situation:
+
+
+[Topics/Speech]
+
+* Speech:
+===
+- This is a work in progress.
+===
+
+
+[Topics/Tefilah]
+
+* Tefilah:
 ===
 - This is a work in progress.
 ===
