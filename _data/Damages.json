@@ -1,0 +1,124 @@
+{
+ "displayTopicName": "Damages",
+ "topicTokens": [
+  {
+   "text": "Damages",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Damages": [
+   {
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "By Halachic Category",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "By Halachic Category",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "By Halachic Category",
+         "targetTopic": "Damages",
+         "enclosingTopic": "Damages",
+         "enclosingSubtopic": "Damages"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "By Situation",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "By Situation",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "By Situation",
+         "targetTopic": "Damages",
+         "enclosingTopic": "Damages",
+         "enclosingSubtopic": "Damages"
+        }
+       ]
+      }
+     ]
+    ]
+   }
+  ],
+  "By Halachic Category": [
+   {
+    "text": "=== ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "“Bor”",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "“Shor”",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "“Aish”",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "“Adam”",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "“Adam”",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "By Situation": []
+ }
+}

@@ -90,16 +90,34 @@
       {
        "tokens": [
         {
-         "text": "Money",
+         "text": "Buying and Selling",
          "type": "global",
          "tokens": [
           {
-           "text": "Money",
+           "text": "Buying and Selling",
            "type": "text"
           }
          ],
-         "targetSubtopic": "Money",
-         "targetTopic": "Money",
+         "targetSubtopic": "Buying and Selling",
+         "targetTopic": "Buying and Selling",
+         "enclosingTopic": "Learn by Topic",
+         "enclosingSubtopic": "Learn by Topic"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Damages",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Damages",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Damages",
+         "targetTopic": "Damages",
          "enclosingTopic": "Learn by Topic",
          "enclosingSubtopic": "Learn by Topic"
         }

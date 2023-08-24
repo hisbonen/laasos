@@ -1,13 +1,13 @@
 {
- "displayTopicName": "Money",
+ "displayTopicName": "Buying and Selling",
  "topicTokens": [
   {
-   "text": "Money",
+   "text": "Buying and Selling",
    "type": "text"
   }
  ],
  "paragraphsBySubtopic": {
-  "Money": [
+  "Buying and Selling": [
    {
     "type": "table_list",
     "width": 4,
