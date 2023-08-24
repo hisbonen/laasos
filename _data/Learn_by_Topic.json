@@ -52,16 +52,16 @@
       {
        "tokens": [
         {
-         "text": "Kashrus",
+         "text": "Food",
          "type": "global",
          "tokens": [
           {
-           "text": "Kashrus",
+           "text": "Food",
            "type": "text"
           }
          ],
-         "targetSubtopic": "Kashrus",
-         "targetTopic": "Kashrus",
+         "targetSubtopic": "Food",
+         "targetTopic": "Food",
          "enclosingTopic": "Learn by Topic",
          "enclosingSubtopic": "Learn by Topic"
         }

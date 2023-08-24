@@ -1,13 +1,13 @@
 {
- "displayTopicName": "Kashrus",
+ "displayTopicName": "Food",
  "topicTokens": [
   {
-   "text": "Kashrus",
+   "text": "Food",
    "type": "text"
   }
  ],
  "paragraphsBySubtopic": {
-  "Kashrus": [
+  "Food": [
    {
     "type": "table_list",
     "width": 4,
