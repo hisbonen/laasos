@@ -55,97 +55,84 @@
   ],
   "By Halachic Category": [
    {
-    "text": "=== ",
-    "type": "text"
-   },
-   {
-    "topLevelNodes": [
-     {
-      "ordinal": "-",
-      "ordered": false,
-      "tokensOfLine": [
-       {
-        "text": "Bor",
-        "type": "local",
-        "tokens": [
-         {
-          "text": "Bor",
-          "type": "text"
-         }
-        ],
-        "targetSubtopic": "Bor",
-        "targetTopic": "Damages",
-        "enclosingTopic": "Damages",
-        "enclosingSubtopic": "By Halachic Category"
-       }
-      ],
-      "children": []
-     },
-     {
-      "ordinal": "-",
-      "ordered": false,
-      "tokensOfLine": [
-       {
-        "text": "Shor",
-        "type": "local",
-        "tokens": [
-         {
-          "text": "Shor",
-          "type": "text"
-         }
-        ],
-        "targetSubtopic": "Shor",
-        "targetTopic": "Damages",
-        "enclosingTopic": "Damages",
-        "enclosingSubtopic": "By Halachic Category"
-       }
-      ],
-      "children": []
-     },
-     {
-      "ordinal": "-",
-      "ordered": false,
-      "tokensOfLine": [
-       {
-        "text": "Aish",
-        "type": "local",
-        "tokens": [
-         {
-          "text": "Aish",
-          "type": "text"
-         }
-        ],
-        "targetSubtopic": "Aish",
-        "targetTopic": "Damages",
-        "enclosingTopic": "Damages",
-        "enclosingSubtopic": "By Halachic Category"
-       }
-      ],
-      "children": []
-     },
-     {
-      "ordinal": "-",
-      "ordered": false,
-      "tokensOfLine": [
-       {
-        "text": "Adam",
-        "type": "local",
-        "tokens": [
-         {
-          "text": "Adam",
-          "type": "text"
-         }
-        ],
-        "targetSubtopic": "Adam",
-        "targetTopic": "Damages",
-        "enclosingTopic": "Damages",
-        "enclosingSubtopic": "By Halachic Category"
-       }
-      ],
-      "children": []
-     }
-    ],
-    "type": "outline"
+    "type": "table_list",
+    "width": 4,
+    "rows": [
+     [
+      {
+       "tokens": [
+        {
+         "text": "Bor",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Bor",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Bor",
+         "targetTopic": "Damages",
+         "enclosingTopic": "Damages",
+         "enclosingSubtopic": "By Halachic Category"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Shor",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Shor",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Shor",
+         "targetTopic": "Damages",
+         "enclosingTopic": "Damages",
+         "enclosingSubtopic": "By Halachic Category"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Aish",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Aish",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Aish",
+         "targetTopic": "Damages",
+         "enclosingTopic": "Damages",
+         "enclosingSubtopic": "By Halachic Category"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
+         "text": "Adam",
+         "type": "local",
+         "tokens": [
+          {
+           "text": "Adam",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Adam",
+         "targetTopic": "Damages",
+         "enclosingTopic": "Damages",
+         "enclosingSubtopic": "By Halachic Category"
+        }
+       ]
+      }
+     ]
+    ]
    }
   ],
   "Bor": [
