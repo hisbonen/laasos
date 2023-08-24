@@ -16,6 +16,24 @@
       {
        "tokens": [
         {
+         "text": "Shabbos",
+         "type": "global",
+         "tokens": [
+          {
+           "text": "Shabbos",
+           "type": "text"
+          }
+         ],
+         "targetSubtopic": "Shabbos",
+         "targetTopic": "Shabbos",
+         "enclosingTopic": "Learn by Topic",
+         "enclosingSubtopic": "Learn by Topic"
+        }
+       ]
+      },
+      {
+       "tokens": [
+        {
          "text": "Tefilah",
          "type": "global",
          "tokens": [
@@ -66,7 +84,9 @@
          "enclosingSubtopic": "Learn by Topic"
         }
        ]
-      },
+      }
+     ],
+     [
       {
        "tokens": [
         {
@@ -80,26 +100,6 @@
          ],
          "targetSubtopic": "Money",
          "targetTopic": "Money",
-         "enclosingTopic": "Learn by Topic",
-         "enclosingSubtopic": "Learn by Topic"
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "Shabbos",
-         "type": "global",
-         "tokens": [
-          {
-           "text": "Shabbos",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Shabbos",
-         "targetTopic": "Shabbos",
          "enclosingTopic": "Learn by Topic",
          "enclosingSubtopic": "Learn by Topic"
         }
