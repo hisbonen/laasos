@@ -22,46 +22,45 @@
    },
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "Learn by Source",
-         "type": "global",
-         "tokens": [
-          {
-           "text": "Learn by Source",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Learn by Source",
-         "targetTopic": "Learn by Source",
-         "enclosingTopic": "La’asos",
-         "enclosingSubtopic": "La’asos"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Learn by Topic",
-         "type": "global",
-         "tokens": [
-          {
-           "text": "Learn by Topic",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Learn by Topic",
-         "targetTopic": "Learn by Topic",
-         "enclosingTopic": "La’asos",
-         "enclosingSubtopic": "La’asos"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Learn by Source",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "Learn by Source",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Learn by Source",
+        "targetTopic": "Learn by Source",
+        "enclosingTopic": "La’asos",
+        "enclosingSubtopic": "La’asos"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Learn by Topic",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "Learn by Topic",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Learn by Topic",
+        "targetTopic": "Learn by Topic",
+        "enclosingTopic": "La’asos",
+        "enclosingSubtopic": "La’asos"
+       }
+      ]
+     }
     ]
    }
   ]

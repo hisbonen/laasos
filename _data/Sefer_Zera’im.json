@@ -10,264 +10,252 @@
   "Sefer Zera’im": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "Kilayim",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Kilayim",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Kilayim",
-         "targetTopic": "Sefer Zera’im",
-         "enclosingTopic": "Sefer Zera’im",
-         "enclosingSubtopic": "Sefer Zera’im"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Aniyim",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Aniyim",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Aniyim",
-         "targetTopic": "Sefer Zera’im",
-         "enclosingTopic": "Sefer Zera’im",
-         "enclosingSubtopic": "Sefer Zera’im"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Terumah",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Terumah",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Terumah",
-         "targetTopic": "Sefer Zera’im",
-         "enclosingTopic": "Sefer Zera’im",
-         "enclosingSubtopic": "Sefer Zera’im"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Maaser",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Maaser",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Maaser",
-         "targetTopic": "Sefer Zera’im",
-         "enclosingTopic": "Sefer Zera’im",
-         "enclosingSubtopic": "Sefer Zera’im"
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "Sheini",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Sheini",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Sheini",
-         "targetTopic": "Sefer Zera’im",
-         "enclosingTopic": "Sefer Zera’im",
-         "enclosingSubtopic": "Sefer Zera’im"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Bikurim",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Bikurim",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Bikurim",
-         "targetTopic": "Sefer Zera’im",
-         "enclosingTopic": "Sefer Zera’im",
-         "enclosingSubtopic": "Sefer Zera’im"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Shemittah",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Shemittah",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Shemittah",
-         "targetTopic": "Sefer Zera’im",
-         "enclosingTopic": "Sefer Zera’im",
-         "enclosingSubtopic": "Sefer Zera’im"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Kilayim",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Kilayim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Kilayim",
+        "targetTopic": "Sefer Zera’im",
+        "enclosingTopic": "Sefer Zera’im",
+        "enclosingSubtopic": "Sefer Zera’im"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Aniyim",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Aniyim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Aniyim",
+        "targetTopic": "Sefer Zera’im",
+        "enclosingTopic": "Sefer Zera’im",
+        "enclosingSubtopic": "Sefer Zera’im"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Terumah",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Terumah",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Terumah",
+        "targetTopic": "Sefer Zera’im",
+        "enclosingTopic": "Sefer Zera’im",
+        "enclosingSubtopic": "Sefer Zera’im"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Maaser",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Maaser",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Maaser",
+        "targetTopic": "Sefer Zera’im",
+        "enclosingTopic": "Sefer Zera’im",
+        "enclosingSubtopic": "Sefer Zera’im"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Sheini",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Sheini",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Sheini",
+        "targetTopic": "Sefer Zera’im",
+        "enclosingTopic": "Sefer Zera’im",
+        "enclosingSubtopic": "Sefer Zera’im"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Bikurim",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Bikurim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Bikurim",
+        "targetTopic": "Sefer Zera’im",
+        "enclosingTopic": "Sefer Zera’im",
+        "enclosingSubtopic": "Sefer Zera’im"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Shemittah",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Shemittah",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Shemittah",
+        "targetTopic": "Sefer Zera’im",
+        "enclosingTopic": "Sefer Zera’im",
+        "enclosingSubtopic": "Sefer Zera’im"
+       }
+      ]
+     }
     ]
    }
   ],
   "Kilayim": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Aniyim": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Terumah": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Maaser": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Sheini": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Bikurim": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Shemittah": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ]

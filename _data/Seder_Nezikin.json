@@ -10,374 +10,357 @@
   "Seder Nezikin": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "Bava Kamma",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Bava Kamma",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Bava Kamma",
-         "targetTopic": "Seder Nezikin",
-         "enclosingTopic": "Seder Nezikin",
-         "enclosingSubtopic": "Seder Nezikin"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Bava Metzia",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Bava Metzia",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Bava Metzia",
-         "targetTopic": "Seder Nezikin",
-         "enclosingTopic": "Seder Nezikin",
-         "enclosingSubtopic": "Seder Nezikin"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Bava Batra",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Bava Batra",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Bava Batra",
-         "targetTopic": "Seder Nezikin",
-         "enclosingTopic": "Seder Nezikin",
-         "enclosingSubtopic": "Seder Nezikin"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Sanhedrin",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Sanhedrin",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Sanhedrin",
-         "targetTopic": "Seder Nezikin",
-         "enclosingTopic": "Seder Nezikin",
-         "enclosingSubtopic": "Seder Nezikin"
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "Makkos",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Makkos",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Makkos",
-         "targetTopic": "Seder Nezikin",
-         "enclosingTopic": "Seder Nezikin",
-         "enclosingSubtopic": "Seder Nezikin"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Shevu’os",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Shevu’os",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Shevu’os",
-         "targetTopic": "Seder Nezikin",
-         "enclosingTopic": "Seder Nezikin",
-         "enclosingSubtopic": "Seder Nezikin"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Eduyos",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Eduyos",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Eduyos",
-         "targetTopic": "Seder Nezikin",
-         "enclosingTopic": "Seder Nezikin",
-         "enclosingSubtopic": "Seder Nezikin"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Avodah Zarah",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Avodah Zarah",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Avodah Zarah",
-         "targetTopic": "Seder Nezikin",
-         "enclosingTopic": "Seder Nezikin",
-         "enclosingSubtopic": "Seder Nezikin"
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "Avos",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Avos",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Avos",
-         "targetTopic": "Seder Nezikin",
-         "enclosingTopic": "Seder Nezikin",
-         "enclosingSubtopic": "Seder Nezikin"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Horayos",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Horayos",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Horayos",
-         "targetTopic": "Seder Nezikin",
-         "enclosingTopic": "Seder Nezikin",
-         "enclosingSubtopic": "Seder Nezikin"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Bava Kamma",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Bava Kamma",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Bava Kamma",
+        "targetTopic": "Seder Nezikin",
+        "enclosingTopic": "Seder Nezikin",
+        "enclosingSubtopic": "Seder Nezikin"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Bava Metzia",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Bava Metzia",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Bava Metzia",
+        "targetTopic": "Seder Nezikin",
+        "enclosingTopic": "Seder Nezikin",
+        "enclosingSubtopic": "Seder Nezikin"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Bava Batra",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Bava Batra",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Bava Batra",
+        "targetTopic": "Seder Nezikin",
+        "enclosingTopic": "Seder Nezikin",
+        "enclosingSubtopic": "Seder Nezikin"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Sanhedrin",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Sanhedrin",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Sanhedrin",
+        "targetTopic": "Seder Nezikin",
+        "enclosingTopic": "Seder Nezikin",
+        "enclosingSubtopic": "Seder Nezikin"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Makkos",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Makkos",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Makkos",
+        "targetTopic": "Seder Nezikin",
+        "enclosingTopic": "Seder Nezikin",
+        "enclosingSubtopic": "Seder Nezikin"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Shevu’os",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Shevu’os",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Shevu’os",
+        "targetTopic": "Seder Nezikin",
+        "enclosingTopic": "Seder Nezikin",
+        "enclosingSubtopic": "Seder Nezikin"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Eduyos",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Eduyos",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Eduyos",
+        "targetTopic": "Seder Nezikin",
+        "enclosingTopic": "Seder Nezikin",
+        "enclosingSubtopic": "Seder Nezikin"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Avodah Zarah",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Avodah Zarah",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Avodah Zarah",
+        "targetTopic": "Seder Nezikin",
+        "enclosingTopic": "Seder Nezikin",
+        "enclosingSubtopic": "Seder Nezikin"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Avos",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Avos",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Avos",
+        "targetTopic": "Seder Nezikin",
+        "enclosingTopic": "Seder Nezikin",
+        "enclosingSubtopic": "Seder Nezikin"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Horayos",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Horayos",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Horayos",
+        "targetTopic": "Seder Nezikin",
+        "enclosingTopic": "Seder Nezikin",
+        "enclosingSubtopic": "Seder Nezikin"
+       }
+      ]
+     }
     ]
    }
   ],
   "Bava Kamma": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Bava Metzia": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Bava Batra": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Sanhedrin": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Makkos": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Shevu’os": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Eduyos": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Avodah Zarah": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Avos": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Horayos": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ]

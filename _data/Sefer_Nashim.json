@@ -10,192 +10,182 @@
   "Sefer Nashim": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "Ishus",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Ishus",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Ishus",
-         "targetTopic": "Sefer Nashim",
-         "enclosingTopic": "Sefer Nashim",
-         "enclosingSubtopic": "Sefer Nashim"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Geirushin",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Geirushin",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Geirushin",
-         "targetTopic": "Sefer Nashim",
-         "enclosingTopic": "Sefer Nashim",
-         "enclosingSubtopic": "Sefer Nashim"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Yibum v’Chalitzah",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Yibum v’Chalitzah",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Yibum vChalitzah",
-         "targetTopic": "Sefer Nashim",
-         "enclosingTopic": "Sefer Nashim",
-         "enclosingSubtopic": "Sefer Nashim"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Na’arah Besulah",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Na’arah Besulah",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Naarah Besulah",
-         "targetTopic": "Sefer Nashim",
-         "enclosingTopic": "Sefer Nashim",
-         "enclosingSubtopic": "Sefer Nashim"
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "Sotah",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Sotah",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Sotah",
-         "targetTopic": "Sefer Nashim",
-         "enclosingTopic": "Sefer Nashim",
-         "enclosingSubtopic": "Sefer Nashim"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Ishus",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Ishus",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Ishus",
+        "targetTopic": "Sefer Nashim",
+        "enclosingTopic": "Sefer Nashim",
+        "enclosingSubtopic": "Sefer Nashim"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Geirushin",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Geirushin",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Geirushin",
+        "targetTopic": "Sefer Nashim",
+        "enclosingTopic": "Sefer Nashim",
+        "enclosingSubtopic": "Sefer Nashim"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Yibum v’Chalitzah",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Yibum v’Chalitzah",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Yibum vChalitzah",
+        "targetTopic": "Sefer Nashim",
+        "enclosingTopic": "Sefer Nashim",
+        "enclosingSubtopic": "Sefer Nashim"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Na’arah Besulah",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Na’arah Besulah",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Naarah Besulah",
+        "targetTopic": "Sefer Nashim",
+        "enclosingTopic": "Sefer Nashim",
+        "enclosingSubtopic": "Sefer Nashim"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Sotah",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Sotah",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Sotah",
+        "targetTopic": "Sefer Nashim",
+        "enclosingTopic": "Sefer Nashim",
+        "enclosingSubtopic": "Sefer Nashim"
+       }
+      ]
+     }
     ]
    }
   ],
   "Ishus": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Geirushin": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Yibum vChalitzah": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Naarah Besulah": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Sotah": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ]

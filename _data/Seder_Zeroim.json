@@ -10,410 +10,392 @@
   "Seder Zeroim": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "Berachos",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Berachos",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Berachos",
-         "targetTopic": "Seder Zeroim",
-         "enclosingTopic": "Seder Zeroim",
-         "enclosingSubtopic": "Seder Zeroim"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Pe’ah",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Pe’ah",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Pe’ah",
-         "targetTopic": "Seder Zeroim",
-         "enclosingTopic": "Seder Zeroim",
-         "enclosingSubtopic": "Seder Zeroim"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Demai",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Demai",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Demai",
-         "targetTopic": "Seder Zeroim",
-         "enclosingTopic": "Seder Zeroim",
-         "enclosingSubtopic": "Seder Zeroim"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Kil’ayim",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Kil’ayim",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Kil’ayim",
-         "targetTopic": "Seder Zeroim",
-         "enclosingTopic": "Seder Zeroim",
-         "enclosingSubtopic": "Seder Zeroim"
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "Shevi’is",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Shevi’is",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Shevi’is",
-         "targetTopic": "Seder Zeroim",
-         "enclosingTopic": "Seder Zeroim",
-         "enclosingSubtopic": "Seder Zeroim"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Terumos",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Terumos",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Terumos",
-         "targetTopic": "Seder Zeroim",
-         "enclosingTopic": "Seder Zeroim",
-         "enclosingSubtopic": "Seder Zeroim"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Ma’aseros",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Ma’aseros",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Ma’aseros",
-         "targetTopic": "Seder Zeroim",
-         "enclosingTopic": "Seder Zeroim",
-         "enclosingSubtopic": "Seder Zeroim"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Ma’aser Sheni",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Ma’aser Sheni",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Ma’aser Sheni",
-         "targetTopic": "Seder Zeroim",
-         "enclosingTopic": "Seder Zeroim",
-         "enclosingSubtopic": "Seder Zeroim"
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "Challah",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Challah",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Challah",
-         "targetTopic": "Seder Zeroim",
-         "enclosingTopic": "Seder Zeroim",
-         "enclosingSubtopic": "Seder Zeroim"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Orlah",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Orlah",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Orlah",
-         "targetTopic": "Seder Zeroim",
-         "enclosingTopic": "Seder Zeroim",
-         "enclosingSubtopic": "Seder Zeroim"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Bikkurim",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Bikkurim",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Bikkurim",
-         "targetTopic": "Seder Zeroim",
-         "enclosingTopic": "Seder Zeroim",
-         "enclosingSubtopic": "Seder Zeroim"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Berachos",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Berachos",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Berachos",
+        "targetTopic": "Seder Zeroim",
+        "enclosingTopic": "Seder Zeroim",
+        "enclosingSubtopic": "Seder Zeroim"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Pe’ah",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Pe’ah",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Pe’ah",
+        "targetTopic": "Seder Zeroim",
+        "enclosingTopic": "Seder Zeroim",
+        "enclosingSubtopic": "Seder Zeroim"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Demai",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Demai",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Demai",
+        "targetTopic": "Seder Zeroim",
+        "enclosingTopic": "Seder Zeroim",
+        "enclosingSubtopic": "Seder Zeroim"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Kil’ayim",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Kil’ayim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Kil’ayim",
+        "targetTopic": "Seder Zeroim",
+        "enclosingTopic": "Seder Zeroim",
+        "enclosingSubtopic": "Seder Zeroim"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Shevi’is",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Shevi’is",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Shevi’is",
+        "targetTopic": "Seder Zeroim",
+        "enclosingTopic": "Seder Zeroim",
+        "enclosingSubtopic": "Seder Zeroim"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Terumos",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Terumos",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Terumos",
+        "targetTopic": "Seder Zeroim",
+        "enclosingTopic": "Seder Zeroim",
+        "enclosingSubtopic": "Seder Zeroim"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Ma’aseros",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Ma’aseros",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Ma’aseros",
+        "targetTopic": "Seder Zeroim",
+        "enclosingTopic": "Seder Zeroim",
+        "enclosingSubtopic": "Seder Zeroim"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Ma’aser Sheni",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Ma’aser Sheni",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Ma’aser Sheni",
+        "targetTopic": "Seder Zeroim",
+        "enclosingTopic": "Seder Zeroim",
+        "enclosingSubtopic": "Seder Zeroim"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Challah",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Challah",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Challah",
+        "targetTopic": "Seder Zeroim",
+        "enclosingTopic": "Seder Zeroim",
+        "enclosingSubtopic": "Seder Zeroim"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Orlah",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Orlah",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Orlah",
+        "targetTopic": "Seder Zeroim",
+        "enclosingTopic": "Seder Zeroim",
+        "enclosingSubtopic": "Seder Zeroim"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Bikkurim",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Bikkurim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Bikkurim",
+        "targetTopic": "Seder Zeroim",
+        "enclosingTopic": "Seder Zeroim",
+        "enclosingSubtopic": "Seder Zeroim"
+       }
+      ]
+     }
     ]
    }
   ],
   "Berachos": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Pe’ah": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Demai": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Kil’ayim": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Shevi’is": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Terumos": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Ma’aseros": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Ma’aser Sheni": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Challah": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Orlah": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Bikkurim": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ]

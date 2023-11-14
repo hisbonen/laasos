@@ -10,46 +10,45 @@
   "Shabbos": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "By Melacha",
-         "type": "global",
-         "tokens": [
-          {
-           "text": "By Melacha",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Shabbos By Melacha",
-         "targetTopic": "Shabbos By Melacha",
-         "enclosingTopic": "Shabbos",
-         "enclosingSubtopic": "Shabbos"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "By Situation",
-         "type": "global",
-         "tokens": [
-          {
-           "text": "By Situation",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Shabbos By Situation",
-         "targetTopic": "Shabbos By Situation",
-         "enclosingTopic": "Shabbos",
-         "enclosingSubtopic": "Shabbos"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "By Melacha",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "By Melacha",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Shabbos By Melacha",
+        "targetTopic": "Shabbos By Melacha",
+        "enclosingTopic": "Shabbos",
+        "enclosingSubtopic": "Shabbos"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "By Situation",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "By Situation",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Shabbos By Situation",
+        "targetTopic": "Shabbos By Situation",
+        "enclosingTopic": "Shabbos",
+        "enclosingSubtopic": "Shabbos"
+       }
+      ]
+     }
     ]
    }
   ]

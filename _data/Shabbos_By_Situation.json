@@ -10,118 +10,112 @@
   "Shabbos By Situation": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "Exercise",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Exercise",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Exercise",
-         "targetTopic": "Shabbos By Situation",
-         "enclosingTopic": "Shabbos By Situation",
-         "enclosingSubtopic": "Shabbos By Situation"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Eating",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Eating",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Eating",
-         "targetTopic": "Shabbos By Situation",
-         "enclosingTopic": "Shabbos By Situation",
-         "enclosingSubtopic": "Shabbos By Situation"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Talking",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Talking",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Talking",
-         "targetTopic": "Shabbos By Situation",
-         "enclosingTopic": "Shabbos By Situation",
-         "enclosingSubtopic": "Shabbos By Situation"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Exercise",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Exercise",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Exercise",
+        "targetTopic": "Shabbos By Situation",
+        "enclosingTopic": "Shabbos By Situation",
+        "enclosingSubtopic": "Shabbos By Situation"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Eating",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Eating",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Eating",
+        "targetTopic": "Shabbos By Situation",
+        "enclosingTopic": "Shabbos By Situation",
+        "enclosingSubtopic": "Shabbos By Situation"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Talking",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Talking",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Talking",
+        "targetTopic": "Shabbos By Situation",
+        "enclosingTopic": "Shabbos By Situation",
+        "enclosingSubtopic": "Shabbos By Situation"
+       }
+      ]
+     }
     ]
    }
   ],
   "Exercise": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Eating": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Talking": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ]

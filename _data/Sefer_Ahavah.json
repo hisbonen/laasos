@@ -10,264 +10,252 @@
   "Sefer Ahavah": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "Kri’as Shema",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Kri’as Shema",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Krias Shema",
-         "targetTopic": "Sefer Ahavah",
-         "enclosingTopic": "Sefer Ahavah",
-         "enclosingSubtopic": "Sefer Ahavah"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Tefilah and Birkas Kohanim",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Tefilah and Birkas Kohanim",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Tefilah and Birkas Kohanim",
-         "targetTopic": "Sefer Ahavah",
-         "enclosingTopic": "Sefer Ahavah",
-         "enclosingSubtopic": "Sefer Ahavah"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Tefillin, Mezuzah, and Sefer Torah",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Tefillin, Mezuzah, and Sefer Torah",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Tefillin, Mezuzah, and Sefer Torah",
-         "targetTopic": "Sefer Ahavah",
-         "enclosingTopic": "Sefer Ahavah",
-         "enclosingSubtopic": "Sefer Ahavah"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Tzitzit",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Tzitzit",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Tzitzit",
-         "targetTopic": "Sefer Ahavah",
-         "enclosingTopic": "Sefer Ahavah",
-         "enclosingSubtopic": "Sefer Ahavah"
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "Berachos",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Berachos",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Berachos",
-         "targetTopic": "Sefer Ahavah",
-         "enclosingTopic": "Sefer Ahavah",
-         "enclosingSubtopic": "Sefer Ahavah"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Milah",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Milah",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Milah",
-         "targetTopic": "Sefer Ahavah",
-         "enclosingTopic": "Sefer Ahavah",
-         "enclosingSubtopic": "Sefer Ahavah"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Seder Tefilos",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Seder Tefilos",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Seder Tefilos",
-         "targetTopic": "Sefer Ahavah",
-         "enclosingTopic": "Sefer Ahavah",
-         "enclosingSubtopic": "Sefer Ahavah"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Kri’as Shema",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Kri’as Shema",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Krias Shema",
+        "targetTopic": "Sefer Ahavah",
+        "enclosingTopic": "Sefer Ahavah",
+        "enclosingSubtopic": "Sefer Ahavah"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Tefilah and Birkas Kohanim",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Tefilah and Birkas Kohanim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Tefilah and Birkas Kohanim",
+        "targetTopic": "Sefer Ahavah",
+        "enclosingTopic": "Sefer Ahavah",
+        "enclosingSubtopic": "Sefer Ahavah"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Tefillin, Mezuzah, and Sefer Torah",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Tefillin, Mezuzah, and Sefer Torah",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Tefillin, Mezuzah, and Sefer Torah",
+        "targetTopic": "Sefer Ahavah",
+        "enclosingTopic": "Sefer Ahavah",
+        "enclosingSubtopic": "Sefer Ahavah"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Tzitzit",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Tzitzit",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Tzitzit",
+        "targetTopic": "Sefer Ahavah",
+        "enclosingTopic": "Sefer Ahavah",
+        "enclosingSubtopic": "Sefer Ahavah"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Berachos",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Berachos",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Berachos",
+        "targetTopic": "Sefer Ahavah",
+        "enclosingTopic": "Sefer Ahavah",
+        "enclosingSubtopic": "Sefer Ahavah"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Milah",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Milah",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Milah",
+        "targetTopic": "Sefer Ahavah",
+        "enclosingTopic": "Sefer Ahavah",
+        "enclosingSubtopic": "Sefer Ahavah"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Seder Tefilos",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Seder Tefilos",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Seder Tefilos",
+        "targetTopic": "Sefer Ahavah",
+        "enclosingTopic": "Sefer Ahavah",
+        "enclosingSubtopic": "Sefer Ahavah"
+       }
+      ]
+     }
     ]
    }
   ],
   "Krias Shema": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Tefilah and Birkas Kohanim": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Tefillin, Mezuzah, and Sefer Torah": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Tzitzit": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Berachos": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Milah": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Seder Tefilos": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ]

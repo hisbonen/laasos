@@ -10,374 +10,357 @@
   "Sefer Zemanim": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "Shabbos",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Shabbos",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Shabbos",
-         "targetTopic": "Sefer Zemanim",
-         "enclosingTopic": "Sefer Zemanim",
-         "enclosingSubtopic": "Sefer Zemanim"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Eruvin",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Eruvin",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Eruvin",
-         "targetTopic": "Sefer Zemanim",
-         "enclosingTopic": "Sefer Zemanim",
-         "enclosingSubtopic": "Sefer Zemanim"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Shevisas Asor",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Shevisas Asor",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Shevisas Asor",
-         "targetTopic": "Sefer Zemanim",
-         "enclosingTopic": "Sefer Zemanim",
-         "enclosingSubtopic": "Sefer Zemanim"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Shevisas Yom Tov",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Shevisas Yom Tov",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Shevisas Yom Tov",
-         "targetTopic": "Sefer Zemanim",
-         "enclosingTopic": "Sefer Zemanim",
-         "enclosingSubtopic": "Sefer Zemanim"
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "Chametz u’Matza",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Chametz u’Matza",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Chametz u’Matza",
-         "targetTopic": "Sefer Zemanim",
-         "enclosingTopic": "Sefer Zemanim",
-         "enclosingSubtopic": "Sefer Zemanim"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Shofar v’Lulav v’Sukkah",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Shofar v’Lulav v’Sukkah",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Shofar v’Lulav vSukkah",
-         "targetTopic": "Sefer Zemanim",
-         "enclosingTopic": "Sefer Zemanim",
-         "enclosingSubtopic": "Sefer Zemanim"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Shekalim",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Shekalim",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Shekalim",
-         "targetTopic": "Sefer Zemanim",
-         "enclosingTopic": "Sefer Zemanim",
-         "enclosingSubtopic": "Sefer Zemanim"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Kiddush HaChodesh",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Kiddush HaChodesh",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Kiddush HaChodesh",
-         "targetTopic": "Sefer Zemanim",
-         "enclosingTopic": "Sefer Zemanim",
-         "enclosingSubtopic": "Sefer Zemanim"
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "Taaniyos",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Taaniyos",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Taaniyos",
-         "targetTopic": "Sefer Zemanim",
-         "enclosingTopic": "Sefer Zemanim",
-         "enclosingSubtopic": "Sefer Zemanim"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Hanukah u’Megillah",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Hanukah u’Megillah",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Hanukah u’Megillah",
-         "targetTopic": "Sefer Zemanim",
-         "enclosingTopic": "Sefer Zemanim",
-         "enclosingSubtopic": "Sefer Zemanim"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Shabbos",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Shabbos",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Shabbos",
+        "targetTopic": "Sefer Zemanim",
+        "enclosingTopic": "Sefer Zemanim",
+        "enclosingSubtopic": "Sefer Zemanim"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Eruvin",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Eruvin",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Eruvin",
+        "targetTopic": "Sefer Zemanim",
+        "enclosingTopic": "Sefer Zemanim",
+        "enclosingSubtopic": "Sefer Zemanim"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Shevisas Asor",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Shevisas Asor",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Shevisas Asor",
+        "targetTopic": "Sefer Zemanim",
+        "enclosingTopic": "Sefer Zemanim",
+        "enclosingSubtopic": "Sefer Zemanim"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Shevisas Yom Tov",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Shevisas Yom Tov",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Shevisas Yom Tov",
+        "targetTopic": "Sefer Zemanim",
+        "enclosingTopic": "Sefer Zemanim",
+        "enclosingSubtopic": "Sefer Zemanim"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Chametz u’Matza",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Chametz u’Matza",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Chametz u’Matza",
+        "targetTopic": "Sefer Zemanim",
+        "enclosingTopic": "Sefer Zemanim",
+        "enclosingSubtopic": "Sefer Zemanim"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Shofar v’Lulav v’Sukkah",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Shofar v’Lulav v’Sukkah",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Shofar v’Lulav vSukkah",
+        "targetTopic": "Sefer Zemanim",
+        "enclosingTopic": "Sefer Zemanim",
+        "enclosingSubtopic": "Sefer Zemanim"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Shekalim",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Shekalim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Shekalim",
+        "targetTopic": "Sefer Zemanim",
+        "enclosingTopic": "Sefer Zemanim",
+        "enclosingSubtopic": "Sefer Zemanim"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Kiddush HaChodesh",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Kiddush HaChodesh",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Kiddush HaChodesh",
+        "targetTopic": "Sefer Zemanim",
+        "enclosingTopic": "Sefer Zemanim",
+        "enclosingSubtopic": "Sefer Zemanim"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Taaniyos",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Taaniyos",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Taaniyos",
+        "targetTopic": "Sefer Zemanim",
+        "enclosingTopic": "Sefer Zemanim",
+        "enclosingSubtopic": "Sefer Zemanim"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Hanukah u’Megillah",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Hanukah u’Megillah",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Hanukah u’Megillah",
+        "targetTopic": "Sefer Zemanim",
+        "enclosingTopic": "Sefer Zemanim",
+        "enclosingSubtopic": "Sefer Zemanim"
+       }
+      ]
+     }
     ]
    }
   ],
   "Shabbos": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Eruvin": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Shevisas Asor": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Shevisas Yom Tov": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Chametz u’Matza": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Shofar v’Lulav vSukkah": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Shekalim": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Kiddush HaChodesh": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Taaniyos": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Hanukah u’Megillah": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ]

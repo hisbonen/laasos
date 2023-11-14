@@ -10,446 +10,427 @@
   "Seder Tahoros": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "Keilim",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Keilim",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Keilim",
-         "targetTopic": "Seder Tahoros",
-         "enclosingTopic": "Seder Tahoros",
-         "enclosingSubtopic": "Seder Tahoros"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Oholos",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Oholos",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Oholos",
-         "targetTopic": "Seder Tahoros",
-         "enclosingTopic": "Seder Tahoros",
-         "enclosingSubtopic": "Seder Tahoros"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Nega’im",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Nega’im",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Nega’im",
-         "targetTopic": "Seder Tahoros",
-         "enclosingTopic": "Seder Tahoros",
-         "enclosingSubtopic": "Seder Tahoros"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Parah",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Parah",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Parah",
-         "targetTopic": "Seder Tahoros",
-         "enclosingTopic": "Seder Tahoros",
-         "enclosingSubtopic": "Seder Tahoros"
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "Tahoros",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Tahoros",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Tahoros",
-         "targetTopic": "Seder Tahoros",
-         "enclosingTopic": "Seder Tahoros",
-         "enclosingSubtopic": "Seder Tahoros"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Mikva’os",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Mikva’os",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Mikva’os",
-         "targetTopic": "Seder Tahoros",
-         "enclosingTopic": "Seder Tahoros",
-         "enclosingSubtopic": "Seder Tahoros"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Niddah",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Niddah",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Niddah",
-         "targetTopic": "Seder Tahoros",
-         "enclosingTopic": "Seder Tahoros",
-         "enclosingSubtopic": "Seder Tahoros"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Machshirin",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Machshirin",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Machshirin",
-         "targetTopic": "Seder Tahoros",
-         "enclosingTopic": "Seder Tahoros",
-         "enclosingSubtopic": "Seder Tahoros"
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "Zavim",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Zavim",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Zavim",
-         "targetTopic": "Seder Tahoros",
-         "enclosingTopic": "Seder Tahoros",
-         "enclosingSubtopic": "Seder Tahoros"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Tevul Yom",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Tevul Yom",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Tevul Yom",
-         "targetTopic": "Seder Tahoros",
-         "enclosingTopic": "Seder Tahoros",
-         "enclosingSubtopic": "Seder Tahoros"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Yadayim",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Yadayim",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Yadayim",
-         "targetTopic": "Seder Tahoros",
-         "enclosingTopic": "Seder Tahoros",
-         "enclosingSubtopic": "Seder Tahoros"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Uktzim",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Uktzim",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Uktzim",
-         "targetTopic": "Seder Tahoros",
-         "enclosingTopic": "Seder Tahoros",
-         "enclosingSubtopic": "Seder Tahoros"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Keilim",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Keilim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Keilim",
+        "targetTopic": "Seder Tahoros",
+        "enclosingTopic": "Seder Tahoros",
+        "enclosingSubtopic": "Seder Tahoros"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Oholos",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Oholos",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Oholos",
+        "targetTopic": "Seder Tahoros",
+        "enclosingTopic": "Seder Tahoros",
+        "enclosingSubtopic": "Seder Tahoros"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Nega’im",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Nega’im",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Nega’im",
+        "targetTopic": "Seder Tahoros",
+        "enclosingTopic": "Seder Tahoros",
+        "enclosingSubtopic": "Seder Tahoros"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Parah",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Parah",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Parah",
+        "targetTopic": "Seder Tahoros",
+        "enclosingTopic": "Seder Tahoros",
+        "enclosingSubtopic": "Seder Tahoros"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Tahoros",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Tahoros",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Tahoros",
+        "targetTopic": "Seder Tahoros",
+        "enclosingTopic": "Seder Tahoros",
+        "enclosingSubtopic": "Seder Tahoros"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Mikva’os",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Mikva’os",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Mikva’os",
+        "targetTopic": "Seder Tahoros",
+        "enclosingTopic": "Seder Tahoros",
+        "enclosingSubtopic": "Seder Tahoros"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Niddah",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Niddah",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Niddah",
+        "targetTopic": "Seder Tahoros",
+        "enclosingTopic": "Seder Tahoros",
+        "enclosingSubtopic": "Seder Tahoros"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Machshirin",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Machshirin",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Machshirin",
+        "targetTopic": "Seder Tahoros",
+        "enclosingTopic": "Seder Tahoros",
+        "enclosingSubtopic": "Seder Tahoros"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Zavim",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Zavim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Zavim",
+        "targetTopic": "Seder Tahoros",
+        "enclosingTopic": "Seder Tahoros",
+        "enclosingSubtopic": "Seder Tahoros"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Tevul Yom",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Tevul Yom",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Tevul Yom",
+        "targetTopic": "Seder Tahoros",
+        "enclosingTopic": "Seder Tahoros",
+        "enclosingSubtopic": "Seder Tahoros"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Yadayim",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Yadayim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Yadayim",
+        "targetTopic": "Seder Tahoros",
+        "enclosingTopic": "Seder Tahoros",
+        "enclosingSubtopic": "Seder Tahoros"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Uktzim",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Uktzim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Uktzim",
+        "targetTopic": "Seder Tahoros",
+        "enclosingTopic": "Seder Tahoros",
+        "enclosingSubtopic": "Seder Tahoros"
+       }
+      ]
+     }
     ]
    }
   ],
   "Keilim": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Oholos": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Nega’im": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Parah": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Tahoros": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Mikva’os": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Niddah": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Machshirin": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Zavim": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Tevul Yom": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Yadayim": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Uktzim": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ]

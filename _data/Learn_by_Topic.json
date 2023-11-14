@@ -10,120 +10,121 @@
   "Learn by Topic": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "Shabbos",
-         "type": "global",
-         "tokens": [
-          {
-           "text": "Shabbos",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Shabbos",
-         "targetTopic": "Shabbos",
-         "enclosingTopic": "Learn by Topic",
-         "enclosingSubtopic": "Learn by Topic"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Tefilah",
-         "type": "global",
-         "tokens": [
-          {
-           "text": "Tefilah",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Tefilah",
-         "targetTopic": "Tefilah",
-         "enclosingTopic": "Learn by Topic",
-         "enclosingSubtopic": "Learn by Topic"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Food",
-         "type": "global",
-         "tokens": [
-          {
-           "text": "Food",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Food",
-         "targetTopic": "Food",
-         "enclosingTopic": "Learn by Topic",
-         "enclosingSubtopic": "Learn by Topic"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Speech",
-         "type": "global",
-         "tokens": [
-          {
-           "text": "Speech",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Speech",
-         "targetTopic": "Speech",
-         "enclosingTopic": "Learn by Topic",
-         "enclosingSubtopic": "Learn by Topic"
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "Buying and Selling",
-         "type": "global",
-         "tokens": [
-          {
-           "text": "Buying and Selling",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Buying and Selling",
-         "targetTopic": "Buying and Selling",
-         "enclosingTopic": "Learn by Topic",
-         "enclosingSubtopic": "Learn by Topic"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Damages",
-         "type": "global",
-         "tokens": [
-          {
-           "text": "Damages",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Damages",
-         "targetTopic": "Damages",
-         "enclosingTopic": "Learn by Topic",
-         "enclosingSubtopic": "Learn by Topic"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Shabbos",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "Shabbos",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Shabbos",
+        "targetTopic": "Shabbos",
+        "enclosingTopic": "Learn by Topic",
+        "enclosingSubtopic": "Learn by Topic"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Tefilah",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "Tefilah",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Tefilah",
+        "targetTopic": "Tefilah",
+        "enclosingTopic": "Learn by Topic",
+        "enclosingSubtopic": "Learn by Topic"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Food",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "Food",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Food",
+        "targetTopic": "Food",
+        "enclosingTopic": "Learn by Topic",
+        "enclosingSubtopic": "Learn by Topic"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Speech",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "Speech",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Speech",
+        "targetTopic": "Speech",
+        "enclosingTopic": "Learn by Topic",
+        "enclosingSubtopic": "Learn by Topic"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Buying and Selling",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "Buying and Selling",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Buying and Selling",
+        "targetTopic": "Buying and Selling",
+        "enclosingTopic": "Learn by Topic",
+        "enclosingSubtopic": "Learn by Topic"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Damages",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "Damages",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Damages",
+        "targetTopic": "Damages",
+        "enclosingTopic": "Learn by Topic",
+        "enclosingSubtopic": "Learn by Topic"
+       }
+      ]
+     }
     ]
    }
   ]

@@ -10,118 +10,112 @@
   "Sefer Kedushah": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "Issurei Biah",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Issurei Biah",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Issurei Biah",
-         "targetTopic": "Sefer Kedushah",
-         "enclosingTopic": "Sefer Kedushah",
-         "enclosingSubtopic": "Sefer Kedushah"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Ma’achalos Assuros",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Ma’achalos Assuros",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Maachalos Assuros",
-         "targetTopic": "Sefer Kedushah",
-         "enclosingTopic": "Sefer Kedushah",
-         "enclosingSubtopic": "Sefer Kedushah"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Shechitah",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Shechitah",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Shechitah",
-         "targetTopic": "Sefer Kedushah",
-         "enclosingTopic": "Sefer Kedushah",
-         "enclosingSubtopic": "Sefer Kedushah"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Issurei Biah",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Issurei Biah",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Issurei Biah",
+        "targetTopic": "Sefer Kedushah",
+        "enclosingTopic": "Sefer Kedushah",
+        "enclosingSubtopic": "Sefer Kedushah"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Ma’achalos Assuros",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Ma’achalos Assuros",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Maachalos Assuros",
+        "targetTopic": "Sefer Kedushah",
+        "enclosingTopic": "Sefer Kedushah",
+        "enclosingSubtopic": "Sefer Kedushah"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Shechitah",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Shechitah",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Shechitah",
+        "targetTopic": "Sefer Kedushah",
+        "enclosingTopic": "Sefer Kedushah",
+        "enclosingSubtopic": "Sefer Kedushah"
+       }
+      ]
+     }
     ]
    }
   ],
   "Issurei Biah": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Maachalos Assuros": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Shechitah": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ]

@@ -10,192 +10,182 @@
   "Sefer Shoftim": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "Sanhedrin",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Sanhedrin",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Sanhedrin",
-         "targetTopic": "Sefer Shoftim",
-         "enclosingTopic": "Sefer Shoftim",
-         "enclosingSubtopic": "Sefer Shoftim"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Eidus",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Eidus",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Eidus",
-         "targetTopic": "Sefer Shoftim",
-         "enclosingTopic": "Sefer Shoftim",
-         "enclosingSubtopic": "Sefer Shoftim"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Mamrim",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Mamrim",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Mamrim",
-         "targetTopic": "Sefer Shoftim",
-         "enclosingTopic": "Sefer Shoftim",
-         "enclosingSubtopic": "Sefer Shoftim"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Evel",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Evel",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Evel",
-         "targetTopic": "Sefer Shoftim",
-         "enclosingTopic": "Sefer Shoftim",
-         "enclosingSubtopic": "Sefer Shoftim"
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "Melachim uMilhamoseihem",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Melachim uMilhamoseihem",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Melachim uMilhamoseihem",
-         "targetTopic": "Sefer Shoftim",
-         "enclosingTopic": "Sefer Shoftim",
-         "enclosingSubtopic": "Sefer Shoftim"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Sanhedrin",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Sanhedrin",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Sanhedrin",
+        "targetTopic": "Sefer Shoftim",
+        "enclosingTopic": "Sefer Shoftim",
+        "enclosingSubtopic": "Sefer Shoftim"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Eidus",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Eidus",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Eidus",
+        "targetTopic": "Sefer Shoftim",
+        "enclosingTopic": "Sefer Shoftim",
+        "enclosingSubtopic": "Sefer Shoftim"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Mamrim",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Mamrim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Mamrim",
+        "targetTopic": "Sefer Shoftim",
+        "enclosingTopic": "Sefer Shoftim",
+        "enclosingSubtopic": "Sefer Shoftim"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Evel",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Evel",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Evel",
+        "targetTopic": "Sefer Shoftim",
+        "enclosingTopic": "Sefer Shoftim",
+        "enclosingSubtopic": "Sefer Shoftim"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Melachim uMilhamoseihem",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Melachim uMilhamoseihem",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Melachim uMilhamoseihem",
+        "targetTopic": "Sefer Shoftim",
+        "enclosingTopic": "Sefer Shoftim",
+        "enclosingSubtopic": "Sefer Shoftim"
+       }
+      ]
+     }
     ]
    }
   ],
   "Sanhedrin": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Eidus": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Mamrim": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Evel": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Melachim uMilhamoseihem": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ]

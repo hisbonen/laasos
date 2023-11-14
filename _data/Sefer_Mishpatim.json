@@ -10,192 +10,182 @@
   "Sefer Mishpatim": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "Schirus",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Schirus",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Schirus",
-         "targetTopic": "Sefer Mishpatim",
-         "enclosingTopic": "Sefer Mishpatim",
-         "enclosingSubtopic": "Sefer Mishpatim"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Sheilah uPikadon",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Sheilah uPikadon",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Sheilah uPikadon",
-         "targetTopic": "Sefer Mishpatim",
-         "enclosingTopic": "Sefer Mishpatim",
-         "enclosingSubtopic": "Sefer Mishpatim"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Malveh v’Loveh",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Malveh v’Loveh",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Malveh v’Loveh",
-         "targetTopic": "Sefer Mishpatim",
-         "enclosingTopic": "Sefer Mishpatim",
-         "enclosingSubtopic": "Sefer Mishpatim"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "To’en v’Nit’an",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "To’en v’Nit’an",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "To’en v’Nit’an",
-         "targetTopic": "Sefer Mishpatim",
-         "enclosingTopic": "Sefer Mishpatim",
-         "enclosingSubtopic": "Sefer Mishpatim"
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "Nahalos",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Nahalos",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Nahalos",
-         "targetTopic": "Sefer Mishpatim",
-         "enclosingTopic": "Sefer Mishpatim",
-         "enclosingSubtopic": "Sefer Mishpatim"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Schirus",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Schirus",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Schirus",
+        "targetTopic": "Sefer Mishpatim",
+        "enclosingTopic": "Sefer Mishpatim",
+        "enclosingSubtopic": "Sefer Mishpatim"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Sheilah uPikadon",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Sheilah uPikadon",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Sheilah uPikadon",
+        "targetTopic": "Sefer Mishpatim",
+        "enclosingTopic": "Sefer Mishpatim",
+        "enclosingSubtopic": "Sefer Mishpatim"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Malveh v’Loveh",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Malveh v’Loveh",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Malveh v’Loveh",
+        "targetTopic": "Sefer Mishpatim",
+        "enclosingTopic": "Sefer Mishpatim",
+        "enclosingSubtopic": "Sefer Mishpatim"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "To’en v’Nit’an",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "To’en v’Nit’an",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "To’en v’Nit’an",
+        "targetTopic": "Sefer Mishpatim",
+        "enclosingTopic": "Sefer Mishpatim",
+        "enclosingSubtopic": "Sefer Mishpatim"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Nahalos",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Nahalos",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Nahalos",
+        "targetTopic": "Sefer Mishpatim",
+        "enclosingTopic": "Sefer Mishpatim",
+        "enclosingSubtopic": "Sefer Mishpatim"
+       }
+      ]
+     }
     ]
    }
   ],
   "Schirus": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Sheilah uPikadon": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Malveh v’Loveh": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "To’en v’Nit’an": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Nahalos": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ]

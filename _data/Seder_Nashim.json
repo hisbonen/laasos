@@ -10,264 +10,252 @@
   "Seder Nashim": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "Yevamos",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Yevamos",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Yevamos",
-         "targetTopic": "Seder Nashim",
-         "enclosingTopic": "Seder Nashim",
-         "enclosingSubtopic": "Seder Nashim"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Ketubos",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Ketubos",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Ketubos",
-         "targetTopic": "Seder Nashim",
-         "enclosingTopic": "Seder Nashim",
-         "enclosingSubtopic": "Seder Nashim"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Nedarim",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Nedarim",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Nedarim",
-         "targetTopic": "Seder Nashim",
-         "enclosingTopic": "Seder Nashim",
-         "enclosingSubtopic": "Seder Nashim"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Nazir",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Nazir",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Nazir",
-         "targetTopic": "Seder Nashim",
-         "enclosingTopic": "Seder Nashim",
-         "enclosingSubtopic": "Seder Nashim"
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "Sotah",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Sotah",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Sotah",
-         "targetTopic": "Seder Nashim",
-         "enclosingTopic": "Seder Nashim",
-         "enclosingSubtopic": "Seder Nashim"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Gittin",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Gittin",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Gittin",
-         "targetTopic": "Seder Nashim",
-         "enclosingTopic": "Seder Nashim",
-         "enclosingSubtopic": "Seder Nashim"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Kiddushin",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Kiddushin",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Kiddushin",
-         "targetTopic": "Seder Nashim",
-         "enclosingTopic": "Seder Nashim",
-         "enclosingSubtopic": "Seder Nashim"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Yevamos",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Yevamos",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Yevamos",
+        "targetTopic": "Seder Nashim",
+        "enclosingTopic": "Seder Nashim",
+        "enclosingSubtopic": "Seder Nashim"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Ketubos",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Ketubos",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Ketubos",
+        "targetTopic": "Seder Nashim",
+        "enclosingTopic": "Seder Nashim",
+        "enclosingSubtopic": "Seder Nashim"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Nedarim",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Nedarim",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Nedarim",
+        "targetTopic": "Seder Nashim",
+        "enclosingTopic": "Seder Nashim",
+        "enclosingSubtopic": "Seder Nashim"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Nazir",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Nazir",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Nazir",
+        "targetTopic": "Seder Nashim",
+        "enclosingTopic": "Seder Nashim",
+        "enclosingSubtopic": "Seder Nashim"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Sotah",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Sotah",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Sotah",
+        "targetTopic": "Seder Nashim",
+        "enclosingTopic": "Seder Nashim",
+        "enclosingSubtopic": "Seder Nashim"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Gittin",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Gittin",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Gittin",
+        "targetTopic": "Seder Nashim",
+        "enclosingTopic": "Seder Nashim",
+        "enclosingSubtopic": "Seder Nashim"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Kiddushin",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Kiddushin",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Kiddushin",
+        "targetTopic": "Seder Nashim",
+        "enclosingTopic": "Seder Nashim",
+        "enclosingSubtopic": "Seder Nashim"
+       }
+      ]
+     }
     ]
    }
   ],
   "Yevamos": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Ketubos": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Nedarim": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Nazir": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Sotah": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Gittin": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Kiddushin": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ]

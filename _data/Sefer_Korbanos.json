@@ -10,228 +10,217 @@
   "Sefer Korbanos": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "Korban Pesach",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Korban Pesach",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Korban Pesach",
-         "targetTopic": "Sefer Korbanos",
-         "enclosingTopic": "Sefer Korbanos",
-         "enclosingSubtopic": "Sefer Korbanos"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Chagigah",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Chagigah",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Chagigah",
-         "targetTopic": "Sefer Korbanos",
-         "enclosingTopic": "Sefer Korbanos",
-         "enclosingSubtopic": "Sefer Korbanos"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Bechoros",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Bechoros",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Bechoros",
-         "targetTopic": "Sefer Korbanos",
-         "enclosingTopic": "Sefer Korbanos",
-         "enclosingSubtopic": "Sefer Korbanos"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Shegagos",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Shegagos",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Shegagos",
-         "targetTopic": "Sefer Korbanos",
-         "enclosingTopic": "Sefer Korbanos",
-         "enclosingSubtopic": "Sefer Korbanos"
-        }
-       ]
-      }
-     ],
-     [
-      {
-       "tokens": [
-        {
-         "text": "Mechussarey Kapparah",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Mechussarey Kapparah",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Mechussarey Kapparah",
-         "targetTopic": "Sefer Korbanos",
-         "enclosingTopic": "Sefer Korbanos",
-         "enclosingSubtopic": "Sefer Korbanos"
-        }
-       ]
-      },
-      {
-       "tokens": [
-        {
-         "text": "Temurah",
-         "type": "local",
-         "tokens": [
-          {
-           "text": "Temurah",
-           "type": "text"
-          }
-         ],
-         "targetSubtopic": "Temurah",
-         "targetTopic": "Sefer Korbanos",
-         "enclosingTopic": "Sefer Korbanos",
-         "enclosingSubtopic": "Sefer Korbanos"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Korban Pesach",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Korban Pesach",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Korban Pesach",
+        "targetTopic": "Sefer Korbanos",
+        "enclosingTopic": "Sefer Korbanos",
+        "enclosingSubtopic": "Sefer Korbanos"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Chagigah",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Chagigah",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Chagigah",
+        "targetTopic": "Sefer Korbanos",
+        "enclosingTopic": "Sefer Korbanos",
+        "enclosingSubtopic": "Sefer Korbanos"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Bechoros",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Bechoros",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Bechoros",
+        "targetTopic": "Sefer Korbanos",
+        "enclosingTopic": "Sefer Korbanos",
+        "enclosingSubtopic": "Sefer Korbanos"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Shegagos",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Shegagos",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Shegagos",
+        "targetTopic": "Sefer Korbanos",
+        "enclosingTopic": "Sefer Korbanos",
+        "enclosingSubtopic": "Sefer Korbanos"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Mechussarey Kapparah",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Mechussarey Kapparah",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Mechussarey Kapparah",
+        "targetTopic": "Sefer Korbanos",
+        "enclosingTopic": "Sefer Korbanos",
+        "enclosingSubtopic": "Sefer Korbanos"
+       }
+      ]
+     },
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "Temurah",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "Temurah",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Temurah",
+        "targetTopic": "Sefer Korbanos",
+        "enclosingTopic": "Sefer Korbanos",
+        "enclosingSubtopic": "Sefer Korbanos"
+       }
+      ]
+     }
     ]
    }
   ],
   "Korban Pesach": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Chagigah": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Bechoros": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Shegagos": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Mechussarey Kapparah": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ],
   "Temurah": [
    {
     "type": "table_list",
-    "width": 4,
-    "rows": [
-     [
-      {
-       "tokens": [
-        {
-         "text": "This is a work in progress",
-         "type": "text"
-        }
-       ]
-      }
-     ]
+    "items": [
+     {
+      "list": false,
+      "tokens": [
+       {
+        "text": "This is a work in progress",
+        "type": "text"
+       }
+      ]
+     }
     ]
    }
   ]
