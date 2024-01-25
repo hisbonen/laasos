@@ -1,7 +1,8 @@
 [La’asos]
 
 ** La’asos:
-Welcome to La’asos (לְעַתוֹת), the interactive halacha-learning tool.<img src="/_assets/logo.png" alt="Logo" style="position: absolute; height: 200px; width: 200; top: -15px; right: -30px;">
+Welcome to La’asos (לְעַתוֹת), the interactive halacha-learning tool.
+<img src="/_assets/logo.png" alt="Logo" style="position: absolute; height: 200px; width: 200; top: -15px; right: -30px;">
 ===
 - [[Learn by Source]]
 - [[Learn by Topic]]
@@ -341,8 +342,8 @@ Seder Tefilos:
 
 * Sefer Zemanim:
 ===
-- [[Shabbos]]
-- [[Eruvin]]
+- [[{Shabbos} of Sefer Zemanim]]
+- [[{Eruvin} of Sefer Zemanim]]
 - [[Shevisas Asor]]
 - [[Shevisas Yom Tov]]
 - [[Chametz u’Matza]]
@@ -353,12 +354,12 @@ Seder Tefilos:
 - [[Hanukah u’Megillah]]
 ===
 
-Shabbos:
+Shabbos of Sefer Zemanim:
 ===
 - This is a work in progress
 ===
 
-Eruvin:
+Eruvin of Sefer Zemanim:
 ===
 - This is a work in progress
 ===
@@ -748,8 +749,8 @@ Bikkurim:
 
 * Seder Moed:
 ===
-- [[Shabbos]]
-- [[Eruvin]]
+- [[Gemara {Shabbos}]]
+- [[Gemara {Eruvin}]]
 - [[Pesachim]]
 - [[Shkalim]]
 - [[Yoma]]
@@ -762,12 +763,12 @@ Bikkurim:
 - [[Hagigah]]
 ===
 
-Shabbos:
+Gemara Shabbos:
 ===
 - This is a work in progress
 ===
 
-Eruvin:
+Gemara Eruvin:
 ===
 - This is a work in progress
 ===
@@ -1101,22 +1102,120 @@ Uktzim:
 - [[Choshen Mishpat]]
 ===
 
-Orach Chayim:
+
+[Sources/Tur/Choshen Mishpat]
+
+* Choshen Mishpat:
 ===
 - This is a work in progress.
 ===
 
-Yoreh Deah:
+
+[Sources/Tur/Even Haezer]
+
+* Even Haezer:
 ===
 - This is a work in progress.
 ===
 
-Even Haezer:
+
+[Sources/Tur/Orach Chayim]
+
+* Orach Chayim:
 ===
-- This is a work in progress.
+- [[{{Waking}}<br><small>1-7</small>]]
+- [[{{Tzitzit}}<br><small>x-y</small>]]
+- [[{{Tefillin}}<br><small>x-y</small>]]
+- [[{{Morning Blessings}}<br><small>x-y</small>]]
+- [[{{Kriyas Shema}}<br><small>x-y</small>]]
+- [[{{Tefila}}<br><small>x-y</small>]]
+- [[{{Birkas Kohanim}}<br><small>x-y</small>]]
+- [[{{Kriyas HaTorah}}<br><small>x-y</small>]]
+- [[{{Beis Hakaneses}}<br><small>x-y</small>]]
+- [[{{Netilas Yedayim}}<br><small>x-y</small>]]
+- [[{{Seuda}}<br><small>x-y</small>]]
+- [[{{Berachos on Fruit}}<br><small>x-y</small>]]
+- [[{{Other Blessings}}<br><small>x-y</small>]]
+- [[{{Shabbos}}{ in Orach Chayim|}<br><small>x-y</small>]]
+- [[{{Eruvin}}{ in Orach Chayim|}<br><small>x-y</small>]]
+- [[{{Techumin}}<br><small>x-y</small>]]
+- [[{{Eruv Techumin}}<br><small>x-y</small>]]
+- [[{{Rosh Chodesh}}<br><small>x-y</small>]]
+- [[{{Pesach}}<br><small>x-y</small>]]
+- [[{{Yomim Tovim}}<br><small>x-y</small>]]
+- [[{{Chol HaMoed}}<br><small>x-y</small>]]
+- [[{{Tisha b’av}}<br><small>x-y</small>]]
+- [[{{Tainasim}}<br><small>x-y</small>]]
+- [[{{Rosh Hashanah}}<br><small>x-y</small>]]
+- [[{{Yom Kippur}}<br><small>x-y</small>]]
+- [[{{Sukkos}}<br><small>x-y</small>]]
+- [[{{Four Species}}<br><small>x-y</small>]]
+- [[{{Chanukah}}<br><small>x-y</small>]]
+- [[{{Purim}}<br><small>x-y</small>]]
 ===
 
-Choshen Mishpat:
+Waking:
+
+Tzitzit:
+
+Tefillin:
+
+Morning Blessings:
+
+Kriyas Shema:
+
+Tefila:
+
+Birkas Kohanim:
+
+Kriyas HaTorah:
+
+Beis Hakaneses:
+
+Netilas Yedayim:
+
+Seuda:
+
+Berachos on Fruit:
+
+Other Blessings:
+
+Shabbos in Orach Chayim:
+
+Eruvin in Orach Chayim:
+
+Techumin:
+
+Eruv Techumin:
+
+Rosh Chodesh:
+
+Pesach:
+
+Yomim Tovim:
+
+Chol HaMoed:
+
+Tisha bav:
+
+Tainasim:
+
+Rosh Hashanah:
+
+Yom Kippur:
+
+Sukkos:
+
+Four Species:
+
+Chanukah:
+
+Purim:
+
+
+[Sources/Tur/Yoreh Deah]
+
+* Yoreh Deah:
 ===
 - This is a work in progress.
 ===
@@ -1132,6 +1231,37 @@ Choshen Mishpat:
 - [[Speech]]
 - [[Buying and Selling]]
 - [[Damages]]
+- [[Guardianship]]
+===
+
+Shabbos:
+===
+- This is a work in progress
+===
+
+Tefilah:
+===
+- This is a work in progress
+===
+
+Food:
+===
+- This is a work in progress
+===
+
+Speech:
+===
+- This is a work in progress
+===
+
+Buying and Selling:
+===
+- This is a work in progress
+===
+
+Damages:
+===
+- This is a work in progress
 ===
 
 
@@ -1179,7 +1309,15 @@ Adam:
 - This is a work in progress
 ===
 
-By Situation:
+
+[Topics/Damages/Situations]
+
+* By Situation:
+===
+- Car Accident
+- Damage by Animal
+- Damage while borrowing
+===
 
 
 [Topics/Food]
@@ -1190,16 +1328,54 @@ By Situation:
 ===
 
 
+[Topics/Guardianship]
+
+* Guardianship:
+===
+- [[Paid Guardian]]
+- [[Unpaid Guardian]]
+- [[Renter]]
+- [[Borrower]]
+===
+
+Paid Guardian:
+
+Unpaid Guardian:
+
+Renter:
+
+Borrower:
+
+
 [Topics/Shabbos]
 
-* Shabbos:
+* Shabbos (Topics):
 ===
-- [[Shabbos {By Melacha}]]
-- [[Shabbos {By Situation}]]
+- [[Melachos]]
+- [[Shabbos {Gezeros}]]
+- [[Shabbos {Mitzvos}]]
+- [[Shabbos {Situations}]]
 ===
 
 
-[Topics/Shabbos/Melachos]
+* Shabbos Gezeros:
+===
+- Mukzah
+- Refua
+- Amira L’Akum
+===
+
+
+* Melachos:
+===
+- [[Making Bread]]
+- [[Making Clothes]]
+- [[Writing]]
+- [[Building a House]]
+===
+
+
+[Topics/Shabbos/Melachos/39]
 
 * Building a House:
 ===
@@ -1390,15 +1566,6 @@ Koraya:
 ===
 
 
-* Shabbos By Melacha:
-===
-- [[Making Bread]]
-- [[Making Clothes]]
-- [[Writing]]
-- [[Building a House]]
-===
-
-
 * Writing:
 ===
 - [[Tzad]]
@@ -1458,13 +1625,23 @@ Mochaik:
 ===
 
 
+[Topics/Shabbos/Mitzvos]
+
+* Shabbos Mitzvos:
+===
+- Kiddush
+- Havdalah
+===
+
+
 [Topics/Shabbos/Situation]
 
-* Shabbos By Situation:
+* Shabbos Situations:
 ===
 - [[Exercise]]
 - [[Eating]]
 - [[Talking]]
+- [[Travel]]
 ===
 
 Exercise:
@@ -1478,6 +1655,11 @@ Eating:
 ===
 
 Talking:
+===
+- This is a work in progress
+===
+
+Travel:
 ===
 - This is a work in progress
 ===
